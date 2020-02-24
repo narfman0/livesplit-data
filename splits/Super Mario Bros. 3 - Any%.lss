@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario Bros. 3</GameName>
+  <CategoryName>Any%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>218</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="11/05/2017 20:47:48" isStartedSynced="True" ended="11/05/2017 20:51:15" isEndedSynced="True" />
+    <Attempt id="2" started="11/06/2017 03:24:41" isStartedSynced="True" ended="11/06/2017 03:24:53" isEndedSynced="True" />
+    <Attempt id="3" started="11/06/2017 03:25:11" isStartedSynced="True" ended="11/06/2017 03:28:33" isEndedSynced="True">
+      <RealTime>00:03:21.6920000</RealTime>
+    </Attempt>
+    <Attempt id="4" started="11/06/2017 03:39:02" isStartedSynced="True" ended="11/06/2017 03:39:12" isEndedSynced="True" />
+    <Attempt id="5" started="11/06/2017 03:39:20" isStartedSynced="True" ended="11/06/2017 03:41:00" isEndedSynced="True" />
+    <Attempt id="6" started="11/06/2017 03:41:43" isStartedSynced="True" ended="11/06/2017 03:42:03" isEndedSynced="True" />
+    <Attempt id="7" started="11/06/2017 03:42:14" isStartedSynced="True" ended="11/06/2017 03:45:43" isEndedSynced="True">
+      <RealTime>00:03:28.8210000</RealTime>
+    </Attempt>
+    <Attempt id="8" started="11/06/2017 04:17:14" isStartedSynced="True" ended="11/06/2017 04:20:18" isEndedSynced="True" />
+    <Attempt id="9" started="11/06/2017 04:21:16" isStartedSynced="True" ended="11/06/2017 04:21:37" isEndedSynced="True" />
+    <Attempt id="10" started="11/06/2017 04:21:39" isStartedSynced="True" ended="11/06/2017 04:21:55" isEndedSynced="True" />
+    <Attempt id="11" started="11/06/2017 04:21:57" isStartedSynced="True" ended="11/06/2017 04:22:12" isEndedSynced="True" />
+    <Attempt id="12" started="11/06/2017 04:22:13" isStartedSynced="True" ended="11/06/2017 04:22:23" isEndedSynced="True" />
+    <Attempt id="13" started="11/06/2017 04:22:26" isStartedSynced="True" ended="11/06/2017 04:22:35" isEndedSynced="True" />
+    <Attempt id="14" started="11/06/2017 04:22:37" isStartedSynced="True" ended="11/06/2017 04:25:52" isEndedSynced="True" />
+    <Attempt id="15" started="11/06/2017 04:26:01" isStartedSynced="True" ended="11/06/2017 04:26:11" isEndedSynced="True" />
+    <Attempt id="16" started="11/06/2017 04:26:17" isStartedSynced="True" ended="11/06/2017 04:27:37" isEndedSynced="True" />
+    <Attempt id="17" started="11/06/2017 04:27:39" isStartedSynced="True" ended="11/06/2017 04:29:29" isEndedSynced="True" />
+    <Attempt id="18" started="11/08/2017 03:04:51" isStartedSynced="True" ended="11/08/2017 03:05:08" isEndedSynced="True" />
+    <Attempt id="19" started="11/08/2017 03:05:09" isStartedSynced="True" ended="11/08/2017 03:08:38" isEndedSynced="True">
+      <RealTime>00:03:29.2490000</RealTime>
+    </Attempt>
+    <Attempt id="20" started="11/08/2017 03:27:37" isStartedSynced="True" ended="11/08/2017 03:29:24" isEndedSynced="True" />
+    <Attempt id="21" started="11/08/2017 03:29:26" isStartedSynced="True" ended="11/08/2017 03:32:56" isEndedSynced="True">
+      <RealTime>00:03:29.8670000</RealTime>
+    </Attempt>
+    <Attempt id="22" started="11/08/2017 03:33:04" isStartedSynced="True" ended="11/08/2017 03:33:14" isEndedSynced="True" />
+    <Attempt id="23" started="11/08/2017 03:33:19" isStartedSynced="True" ended="11/08/2017 03:33:29" isEndedSynced="True" />
+    <Attempt id="24" started="11/08/2017 03:33:33" isStartedSynced="True" ended="11/08/2017 03:33:50" isEndedSynced="True" />
+    <Attempt id="25" started="11/08/2017 03:33:54" isStartedSynced="True" ended="11/08/2017 03:34:15" isEndedSynced="True" />
+    <Attempt id="26" started="11/08/2017 03:34:18" isStartedSynced="True" ended="11/08/2017 03:36:27" isEndedSynced="True" />
+    <Attempt id="27" started="11/08/2017 03:36:35" isStartedSynced="True" ended="11/08/2017 03:39:38" isEndedSynced="True" />
+    <Attempt id="28" started="11/08/2017 03:40:22" isStartedSynced="True" ended="11/08/2017 03:40:34" isEndedSynced="True" />
+    <Attempt id="29" started="11/08/2017 03:40:37" isStartedSynced="True" ended="11/08/2017 03:42:23" isEndedSynced="True" />
+    <Attempt id="30" started="11/08/2017 03:42:26" isStartedSynced="True" ended="11/08/2017 03:44:12" isEndedSynced="True" />
+    <Attempt id="31" started="11/08/2017 03:44:21" isStartedSynced="True" ended="11/08/2017 03:44:30" isEndedSynced="True" />
+    <Attempt id="32" started="11/08/2017 03:44:34" isStartedSynced="True" ended="11/08/2017 03:45:19" isEndedSynced="True" />
+    <Attempt id="33" started="11/08/2017 03:45:22" isStartedSynced="True" ended="11/08/2017 03:48:50" isEndedSynced="True">
+      <RealTime>00:03:28.0880000</RealTime>
+    </Attempt>
+    <Attempt id="34" started="11/08/2017 03:49:05" isStartedSynced="True" ended="11/08/2017 03:49:15" isEndedSynced="True" />
+    <Attempt id="35" started="11/08/2017 03:49:19" isStartedSynced="True" ended="11/08/2017 03:52:48" isEndedSynced="True">
+      <RealTime>00:03:28.7230000</RealTime>
+    </Attempt>
+    <Attempt id="36" started="11/08/2017 03:53:47" isStartedSynced="True" ended="11/08/2017 03:53:57" isEndedSynced="True" />
+    <Attempt id="37" started="11/08/2017 03:54:01" isStartedSynced="True" ended="11/08/2017 03:54:16" isEndedSynced="True" />
+    <Attempt id="38" started="11/08/2017 03:54:21" isStartedSynced="True" ended="11/08/2017 03:55:30" isEndedSynced="True" />
+    <Attempt id="39" started="11/08/2017 03:55:35" isStartedSynced="True" ended="11/08/2017 03:55:45" isEndedSynced="True" />
+    <Attempt id="40" started="11/08/2017 03:55:49" isStartedSynced="True" ended="11/08/2017 03:56:05" isEndedSynced="True" />
+    <Attempt id="41" started="11/08/2017 03:56:10" isStartedSynced="True" ended="11/08/2017 03:59:18" isEndedSynced="True" />
+    <Attempt id="42" started="11/08/2017 03:59:23" isStartedSynced="True" ended="11/08/2017 03:59:30" isEndedSynced="True" />
+    <Attempt id="43" started="11/08/2017 03:59:36" isStartedSynced="True" ended="11/08/2017 04:02:24" isEndedSynced="True" />
+    <Attempt id="44" started="11/08/2017 04:02:32" isStartedSynced="True" ended="11/08/2017 04:03:17" isEndedSynced="True" />
+    <Attempt id="45" started="11/08/2017 04:03:24" isStartedSynced="True" ended="11/08/2017 04:06:27" isEndedSynced="True" />
+    <Attempt id="46" started="11/08/2017 04:06:31" isStartedSynced="True" ended="11/08/2017 04:06:50" isEndedSynced="True" />
+    <Attempt id="47" started="11/08/2017 04:06:55" isStartedSynced="True" ended="11/08/2017 04:07:05" isEndedSynced="True" />
+    <Attempt id="48" started="11/08/2017 04:07:10" isStartedSynced="True" ended="11/08/2017 04:07:19" isEndedSynced="True" />
+    <Attempt id="49" started="11/08/2017 04:07:24" isStartedSynced="True" ended="11/08/2017 04:07:34" isEndedSynced="True" />
+    <Attempt id="50" started="11/08/2017 04:07:38" isStartedSynced="True" ended="11/08/2017 04:07:41" isEndedSynced="True" />
+    <Attempt id="51" started="11/08/2017 04:07:45" isStartedSynced="True" ended="11/08/2017 04:09:33" isEndedSynced="True" />
+    <Attempt id="52" started="11/08/2017 04:09:39" isStartedSynced="True" ended="11/08/2017 04:09:55" isEndedSynced="True" />
+    <Attempt id="53" started="11/08/2017 04:10:00" isStartedSynced="True" ended="11/08/2017 04:10:39" isEndedSynced="True" />
+    <Attempt id="54" started="11/08/2017 04:10:51" isStartedSynced="True" ended="11/08/2017 04:11:50" isEndedSynced="True" />
+    <Attempt id="55" started="11/08/2017 04:11:55" isStartedSynced="True" ended="11/08/2017 04:13:36" isEndedSynced="True" />
+    <Attempt id="56" started="11/08/2017 04:13:41" isStartedSynced="True" ended="11/08/2017 04:15:32" isEndedSynced="True" />
+    <Attempt id="57" started="11/08/2017 04:15:36" isStartedSynced="True" ended="11/08/2017 04:16:37" isEndedSynced="True" />
+    <Attempt id="58" started="11/08/2017 04:16:41" isStartedSynced="True" ended="11/08/2017 04:20:23" isEndedSynced="True">
+      <RealTime>00:03:41.6240000</RealTime>
+    </Attempt>
+    <Attempt id="59" started="11/08/2017 14:09:52" isStartedSynced="True" ended="11/08/2017 14:10:12" isEndedSynced="True" />
+    <Attempt id="60" started="11/08/2017 14:10:23" isStartedSynced="True" ended="11/08/2017 14:10:33" isEndedSynced="True" />
+    <Attempt id="61" started="11/08/2017 14:10:37" isStartedSynced="True" ended="11/08/2017 14:12:21" isEndedSynced="True" />
+    <Attempt id="62" started="11/08/2017 14:12:25" isStartedSynced="True" ended="11/08/2017 14:12:35" isEndedSynced="True" />
+    <Attempt id="63" started="11/08/2017 14:12:57" isStartedSynced="True" ended="11/08/2017 14:15:34" isEndedSynced="True" />
+    <Attempt id="64" started="11/08/2017 14:15:39" isStartedSynced="True" ended="11/08/2017 14:15:45" isEndedSynced="True" />
+    <Attempt id="65" started="11/08/2017 14:15:50" isStartedSynced="True" ended="11/08/2017 14:17:28" isEndedSynced="True" />
+    <Attempt id="66" started="11/08/2017 14:17:33" isStartedSynced="True" ended="11/08/2017 14:18:48" isEndedSynced="True" />
+    <Attempt id="67" started="11/08/2017 14:18:52" isStartedSynced="True" ended="11/08/2017 14:19:07" isEndedSynced="True" />
+    <Attempt id="68" started="11/08/2017 14:19:26" isStartedSynced="True" ended="11/08/2017 14:22:17" isEndedSynced="True" />
+    <Attempt id="69" started="11/08/2017 14:22:21" isStartedSynced="True" ended="11/08/2017 14:24:02" isEndedSynced="True" />
+    <Attempt id="70" started="11/08/2017 14:24:08" isStartedSynced="True" ended="11/08/2017 14:25:53" isEndedSynced="True" />
+    <Attempt id="71" started="11/08/2017 14:25:59" isStartedSynced="True" ended="11/08/2017 14:27:35" isEndedSynced="True" />
+    <Attempt id="72" started="11/08/2017 14:27:40" isStartedSynced="True" ended="11/08/2017 14:28:50" isEndedSynced="True" />
+    <Attempt id="73" started="11/08/2017 14:28:55" isStartedSynced="True" ended="11/08/2017 14:30:38" isEndedSynced="True" />
+    <Attempt id="74" started="11/08/2017 14:34:46" isStartedSynced="True" ended="11/08/2017 14:36:48" isEndedSynced="True" />
+    <Attempt id="75" started="11/08/2017 14:36:55" isStartedSynced="True" ended="11/08/2017 14:37:05" isEndedSynced="True" />
+    <Attempt id="76" started="11/08/2017 14:37:10" isStartedSynced="True" ended="11/08/2017 14:37:17" isEndedSynced="True" />
+    <Attempt id="77" started="11/08/2017 14:37:22" isStartedSynced="True" ended="11/08/2017 14:37:38" isEndedSynced="True" />
+    <Attempt id="78" started="11/08/2017 14:37:42" isStartedSynced="True" ended="11/08/2017 14:37:52" isEndedSynced="True" />
+    <Attempt id="79" started="11/08/2017 14:37:56" isStartedSynced="True" ended="11/08/2017 14:38:58" isEndedSynced="True" />
+    <Attempt id="80" started="11/08/2017 14:39:02" isStartedSynced="True" ended="11/08/2017 14:40:01" isEndedSynced="True" />
+    <Attempt id="81" started="11/08/2017 14:40:06" isStartedSynced="True" ended="11/08/2017 14:41:05" isEndedSynced="True" />
+    <Attempt id="82" started="11/08/2017 14:41:35" isStartedSynced="True" ended="11/08/2017 14:41:46" isEndedSynced="True" />
+    <Attempt id="83" started="11/08/2017 14:41:51" isStartedSynced="True" ended="11/08/2017 14:44:19" isEndedSynced="True" />
+    <Attempt id="84" started="11/08/2017 14:44:24" isStartedSynced="True" ended="11/08/2017 14:47:13" isEndedSynced="True" />
+    <Attempt id="85" started="11/08/2017 14:47:17" isStartedSynced="True" ended="11/08/2017 14:47:23" isEndedSynced="True" />
+    <Attempt id="86" started="11/08/2017 15:04:54" isStartedSynced="True" ended="11/08/2017 15:08:13" isEndedSynced="True">
+      <RealTime>00:03:19.6600000</RealTime>
+    </Attempt>
+    <Attempt id="87" started="11/08/2017 18:44:30" isStartedSynced="True" ended="11/08/2017 18:45:47" isEndedSynced="True" />
+    <Attempt id="88" started="11/08/2017 18:45:51" isStartedSynced="True" ended="11/08/2017 18:46:01" isEndedSynced="True" />
+    <Attempt id="89" started="11/08/2017 18:46:09" isStartedSynced="True" ended="11/08/2017 18:46:27" isEndedSynced="True" />
+    <Attempt id="90" started="11/08/2017 18:46:32" isStartedSynced="True" ended="11/08/2017 18:46:42" isEndedSynced="True" />
+    <Attempt id="91" started="11/08/2017 18:46:47" isStartedSynced="True" ended="11/08/2017 18:48:29" isEndedSynced="True" />
+    <Attempt id="92" started="11/08/2017 18:48:34" isStartedSynced="True" ended="11/08/2017 18:49:33" isEndedSynced="True" />
+    <Attempt id="93" started="11/08/2017 18:49:37" isStartedSynced="True" ended="11/08/2017 18:49:47" isEndedSynced="True" />
+    <Attempt id="94" started="11/08/2017 18:49:57" isStartedSynced="True" ended="11/08/2017 18:50:12" isEndedSynced="True" />
+    <Attempt id="95" started="11/08/2017 18:50:17" isStartedSynced="True" ended="11/08/2017 18:51:54" isEndedSynced="True" />
+    <Attempt id="96" started="11/08/2017 18:59:08" isStartedSynced="True" ended="11/08/2017 19:01:02" isEndedSynced="True" />
+    <Attempt id="97" started="11/08/2017 19:01:07" isStartedSynced="True" ended="11/08/2017 19:01:16" isEndedSynced="True" />
+    <Attempt id="98" started="11/08/2017 19:01:20" isStartedSynced="True" ended="11/08/2017 19:02:57" isEndedSynced="True" />
+    <Attempt id="99" started="11/08/2017 19:03:01" isStartedSynced="True" ended="11/08/2017 19:04:48" isEndedSynced="True" />
+    <Attempt id="100" started="11/08/2017 19:04:53" isStartedSynced="True" ended="11/08/2017 19:05:03" isEndedSynced="True" />
+    <Attempt id="101" started="11/08/2017 19:05:08" isStartedSynced="True" ended="11/08/2017 19:06:46" isEndedSynced="True" />
+    <Attempt id="102" started="11/08/2017 19:06:50" isStartedSynced="True" ended="11/08/2017 19:07:49" isEndedSynced="True" />
+    <Attempt id="103" started="11/08/2017 19:08:10" isStartedSynced="True" ended="11/08/2017 19:08:25" isEndedSynced="True" />
+    <Attempt id="104" started="11/08/2017 19:08:30" isStartedSynced="True" ended="11/08/2017 19:09:30" isEndedSynced="True" />
+    <Attempt id="105" started="11/08/2017 19:09:35" isStartedSynced="True" ended="11/08/2017 19:11:21" isEndedSynced="True" />
+    <Attempt id="106" started="11/08/2017 19:11:26" isStartedSynced="True" ended="11/08/2017 19:12:35" isEndedSynced="True" />
+    <Attempt id="107" started="11/08/2017 19:12:40" isStartedSynced="True" ended="11/08/2017 19:12:55" isEndedSynced="True" />
+    <Attempt id="108" started="11/08/2017 19:13:01" isStartedSynced="True" ended="11/08/2017 19:13:10" isEndedSynced="True" />
+    <Attempt id="109" started="11/08/2017 19:13:15" isStartedSynced="True" ended="11/08/2017 19:15:55" isEndedSynced="True" />
+    <Attempt id="110" started="11/13/2017 02:00:25" isStartedSynced="True" ended="11/13/2017 02:01:10" isEndedSynced="True" />
+    <Attempt id="111" started="11/13/2017 02:01:15" isStartedSynced="True" ended="11/13/2017 02:01:25" isEndedSynced="True" />
+    <Attempt id="112" started="11/13/2017 02:01:30" isStartedSynced="True" ended="11/13/2017 02:02:28" isEndedSynced="True" />
+    <Attempt id="113" started="11/13/2017 02:02:32" isStartedSynced="True" ended="11/13/2017 02:03:18" isEndedSynced="True" />
+    <Attempt id="114" started="11/13/2017 02:03:22" isStartedSynced="True" ended="11/13/2017 02:03:41" isEndedSynced="True" />
+    <Attempt id="115" started="11/13/2017 02:03:52" isStartedSynced="True" ended="11/13/2017 02:04:02" isEndedSynced="True" />
+    <Attempt id="116" started="11/13/2017 02:04:06" isStartedSynced="True" ended="11/13/2017 02:05:58" isEndedSynced="True" />
+    <Attempt id="117" started="11/13/2017 03:22:54" isStartedSynced="True" ended="11/13/2017 03:26:18" isEndedSynced="True">
+      <RealTime>00:03:24.4610000</RealTime>
+    </Attempt>
+    <Attempt id="118" started="11/13/2017 03:26:26" isStartedSynced="True" ended="11/13/2017 03:28:09" isEndedSynced="True" />
+    <Attempt id="119" started="11/13/2017 03:28:14" isStartedSynced="True" ended="11/13/2017 03:28:30" isEndedSynced="True" />
+    <Attempt id="120" started="11/14/2017 03:46:06" isStartedSynced="True" ended="11/14/2017 03:47:43" isEndedSynced="True" />
+    <Attempt id="121" started="11/14/2017 03:47:48" isStartedSynced="True" ended="11/14/2017 03:47:58" isEndedSynced="True" />
+    <Attempt id="122" started="11/14/2017 03:48:03" isStartedSynced="True" ended="11/14/2017 03:49:39" isEndedSynced="True" />
+    <Attempt id="123" started="11/14/2017 03:49:49" isStartedSynced="True" ended="11/14/2017 03:51:34" isEndedSynced="True" />
+    <Attempt id="124" started="11/14/2017 03:51:39" isStartedSynced="True" ended="11/14/2017 03:52:44" isEndedSynced="True" />
+    <Attempt id="125" started="11/14/2017 03:52:56" isStartedSynced="True" ended="11/14/2017 03:53:06" isEndedSynced="True" />
+    <Attempt id="126" started="11/14/2017 03:53:11" isStartedSynced="True" ended="11/14/2017 03:53:26" isEndedSynced="True" />
+    <Attempt id="127" started="11/14/2017 03:53:31" isStartedSynced="True" ended="11/14/2017 03:54:15" isEndedSynced="True" />
+    <Attempt id="128" started="11/14/2017 03:54:20" isStartedSynced="True" ended="11/14/2017 03:54:35" isEndedSynced="True" />
+    <Attempt id="129" started="11/14/2017 03:54:40" isStartedSynced="True" ended="11/14/2017 03:56:36" isEndedSynced="True" />
+    <Attempt id="130" started="11/14/2017 03:56:42" isStartedSynced="True" ended="11/14/2017 03:57:46" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>World 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:57.9360000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:56.5200000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:59.9370000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:59.9370000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:58.1100000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:02.6040000</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:00.6540000</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:01:58.1440000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:02:01.4480000</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:02:04.3980000</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:01:57.1710000</RealTime>
+        </Time>
+        <Time id="33">
+          <RealTime>00:01:56.7900000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:01:56.5200000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:01:59.2360000</RealTime>
+        </Time>
+        <Time id="43">
+          <RealTime>00:01:59.4220000</RealTime>
+        </Time>
+        <Time id="45">
+          <RealTime>00:01:58.7660000</RealTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:01:59.6660000</RealTime>
+        </Time>
+        <Time id="63">
+          <RealTime>00:02:00.9950000</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:01:59.6880000</RealTime>
+        </Time>
+        <Time id="74">
+          <RealTime>00:02:01.4650000</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:01:58.1260000</RealTime>
+        </Time>
+        <Time id="84">
+          <RealTime>00:01:58.8570000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:01:57.9360000</RealTime>
+        </Time>
+        <Time id="109">
+          <RealTime>00:01:58.6580000</RealTime>
+        </Time>
+        <Time id="117">
+          <RealTime>00:02:01.2120000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:08.4910000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:10.3140000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:10.5380000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:10.5380000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:10.5280000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:00:10.6810000</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:00:10.4710000</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:00:10.4980000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:00:10.5010000</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:00:10.5220000</RealTime>
+        </Time>
+        <Time id="33">
+          <RealTime>00:00:10.6200000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:00:10.5110000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:00:10.4640000</RealTime>
+        </Time>
+        <Time id="43">
+          <RealTime>00:00:10.4980000</RealTime>
+        </Time>
+        <Time id="45">
+          <RealTime>00:00:10.4800000</RealTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:00:10.5500000</RealTime>
+        </Time>
+        <Time id="63">
+          <RealTime>00:00:11.0010000</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:00:10.4810000</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:00:10.4520000</RealTime>
+        </Time>
+        <Time id="84">
+          <RealTime>00:00:10.6250000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:00:10.5550000</RealTime>
+        </Time>
+        <Time id="109">
+          <RealTime>00:00:10.4970000</RealTime>
+        </Time>
+        <Time id="117">
+          <RealTime>00:00:10.4700000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:19.6600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:10.8880000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:11.2170000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:20.1830000</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:01:20.6070000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:01:17.9180000</RealTime>
+        </Time>
+        <Time id="33">
+          <RealTime>00:01:20.6780000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:01:21.6920000</RealTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:01:31.4080000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:01:11.1690000</RealTime>
+        </Time>
+        <Time id="117">
+          <RealTime>00:01:12.7790000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
