@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Super Mario Bros. 3</GameName>
@@ -9,116 +10,119 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>69</AttemptCount>
+  <AttemptCount>70</AttemptCount>
   <AttemptHistory>
-    <Attempt ended="10/15/2017 02:02:03" id="1" isEndedSynced="True" isStartedSynced="True" started="10/15/2017 02:01:53" />
-    <Attempt ended="10/15/2017 02:02:18" id="2" isEndedSynced="True" isStartedSynced="True" started="10/15/2017 02:02:08" />
-    <Attempt ended="10/15/2017 03:40:06" id="3" isEndedSynced="True" isStartedSynced="True" started="10/15/2017 02:02:23">
+    <Attempt id="1" started="10/15/2017 02:01:53" isStartedSynced="True" ended="10/15/2017 02:02:03" isEndedSynced="True" />
+    <Attempt id="2" started="10/15/2017 02:02:08" isStartedSynced="True" ended="10/15/2017 02:02:18" isEndedSynced="True" />
+    <Attempt id="3" started="10/15/2017 02:02:23" isStartedSynced="True" ended="10/15/2017 03:40:06" isEndedSynced="True">
       <RealTime>01:37:42.8950000</RealTime>
     </Attempt>
-    <Attempt ended="10/17/2017 00:57:47" id="4" isEndedSynced="True" isStartedSynced="True" started="10/17/2017 00:55:42" />
-    <Attempt ended="10/17/2017 00:58:52" id="5" isEndedSynced="True" isStartedSynced="True" started="10/17/2017 00:57:54" />
-    <Attempt ended="10/17/2017 01:43:30" id="6" isEndedSynced="True" isStartedSynced="True" started="10/17/2017 00:58:57" />
-    <Attempt ended="10/24/2017 02:58:16" id="7" isEndedSynced="True" isStartedSynced="True" started="10/24/2017 02:29:08" />
-    <Attempt ended="10/27/2017 03:07:52" id="8" isEndedSynced="True" isStartedSynced="True" started="10/27/2017 01:38:45">
+    <Attempt id="4" started="10/17/2017 00:55:42" isStartedSynced="True" ended="10/17/2017 00:57:47" isEndedSynced="True" />
+    <Attempt id="5" started="10/17/2017 00:57:54" isStartedSynced="True" ended="10/17/2017 00:58:52" isEndedSynced="True" />
+    <Attempt id="6" started="10/17/2017 00:58:57" isStartedSynced="True" ended="10/17/2017 01:43:30" isEndedSynced="True" />
+    <Attempt id="7" started="10/24/2017 02:29:08" isStartedSynced="True" ended="10/24/2017 02:58:16" isEndedSynced="True" />
+    <Attempt id="8" started="10/27/2017 01:38:45" isStartedSynced="True" ended="10/27/2017 03:07:52" isEndedSynced="True">
       <RealTime>01:29:06.6810000</RealTime>
     </Attempt>
-    <Attempt ended="10/28/2017 02:54:28" id="9" isEndedSynced="True" isStartedSynced="True" started="10/28/2017 02:33:20" />
-    <Attempt ended="10/31/2017 02:40:35" id="10" isEndedSynced="True" isStartedSynced="True" started="10/31/2017 01:24:18" />
-    <Attempt ended="10/31/2017 19:10:41" id="11" isEndedSynced="True" isStartedSynced="True" started="10/31/2017 19:02:08" />
-    <Attempt ended="11/01/2017 03:21:01" id="12" isEndedSynced="True" isStartedSynced="True" started="11/01/2017 01:53:53">
+    <Attempt id="9" started="10/28/2017 02:33:20" isStartedSynced="True" ended="10/28/2017 02:54:28" isEndedSynced="True" />
+    <Attempt id="10" started="10/31/2017 01:24:18" isStartedSynced="True" ended="10/31/2017 02:40:35" isEndedSynced="True" />
+    <Attempt id="11" started="10/31/2017 19:02:08" isStartedSynced="True" ended="10/31/2017 19:10:41" isEndedSynced="True" />
+    <Attempt id="12" started="11/01/2017 01:53:53" isStartedSynced="True" ended="11/01/2017 03:21:01" isEndedSynced="True">
       <RealTime>01:27:08.1280000</RealTime>
     </Attempt>
-    <Attempt ended="05/08/2018 02:26:14" id="13" isEndedSynced="True" isStartedSynced="True" started="05/08/2018 01:05:10">
+    <Attempt id="13" started="05/08/2018 01:05:10" isStartedSynced="True" ended="05/08/2018 02:26:14" isEndedSynced="True">
       <RealTime>01:21:03.6530000</RealTime>
     </Attempt>
-    <Attempt ended="12/11/2018 04:43:28" id="14" isEndedSynced="True" isStartedSynced="True" started="12/11/2018 03:31:39">
+    <Attempt id="14" started="12/11/2018 03:31:39" isStartedSynced="True" ended="12/11/2018 04:43:28" isEndedSynced="True">
       <PauseTime>00:00:04.1050000</PauseTime>
     </Attempt>
-    <Attempt ended="12/12/2018 04:19:08" id="15" isEndedSynced="True" isStartedSynced="True" started="12/12/2018 02:59:54">
+    <Attempt id="15" started="12/12/2018 02:59:54" isStartedSynced="True" ended="12/12/2018 04:19:08" isEndedSynced="True">
       <RealTime>01:19:14.6050000</RealTime>
     </Attempt>
-    <Attempt ended="12/17/2018 04:05:09" id="16" isEndedSynced="True" isStartedSynced="True" started="12/17/2018 02:47:49">
+    <Attempt id="16" started="12/17/2018 02:47:49" isStartedSynced="True" ended="12/17/2018 04:05:09" isEndedSynced="True">
       <RealTime>01:17:19.4190000</RealTime>
     </Attempt>
-    <Attempt ended="12/22/2018 04:07:11" id="17" isEndedSynced="True" isStartedSynced="True" started="12/22/2018 03:08:31" />
-    <Attempt ended="12/29/2018 15:21:26" id="18" isEndedSynced="True" isStartedSynced="True" started="12/29/2018 15:20:20" />
-    <Attempt ended="12/29/2018 15:23:59" id="19" isEndedSynced="True" isStartedSynced="True" started="12/29/2018 15:21:39" />
-    <Attempt ended="12/29/2018 16:18:30" id="20" isEndedSynced="True" isStartedSynced="True" started="12/29/2018 15:24:24" />
-    <Attempt ended="12/30/2018 20:05:18" id="21" isEndedSynced="True" isStartedSynced="True" started="12/30/2018 20:03:15" />
-    <Attempt ended="12/30/2018 20:07:36" id="22" isEndedSynced="True" isStartedSynced="True" started="12/30/2018 20:05:28" />
-    <Attempt ended="12/30/2018 20:15:32" id="23" isEndedSynced="True" isStartedSynced="True" started="12/30/2018 20:07:47" />
-    <Attempt ended="12/31/2018 03:20:54" id="24" isEndedSynced="True" isStartedSynced="True" started="12/31/2018 03:20:44" />
-    <Attempt ended="12/31/2018 03:59:21" id="25" isEndedSynced="True" isStartedSynced="True" started="12/31/2018 03:21:06" />
-    <Attempt ended="12/31/2018 15:17:03" id="26" isEndedSynced="True" isStartedSynced="True" started="12/31/2018 14:48:54">
+    <Attempt id="17" started="12/22/2018 03:08:31" isStartedSynced="True" ended="12/22/2018 04:07:11" isEndedSynced="True" />
+    <Attempt id="18" started="12/29/2018 15:20:20" isStartedSynced="True" ended="12/29/2018 15:21:26" isEndedSynced="True" />
+    <Attempt id="19" started="12/29/2018 15:21:39" isStartedSynced="True" ended="12/29/2018 15:23:59" isEndedSynced="True" />
+    <Attempt id="20" started="12/29/2018 15:24:24" isStartedSynced="True" ended="12/29/2018 16:18:30" isEndedSynced="True" />
+    <Attempt id="21" started="12/30/2018 20:03:15" isStartedSynced="True" ended="12/30/2018 20:05:18" isEndedSynced="True" />
+    <Attempt id="22" started="12/30/2018 20:05:28" isStartedSynced="True" ended="12/30/2018 20:07:36" isEndedSynced="True" />
+    <Attempt id="23" started="12/30/2018 20:07:47" isStartedSynced="True" ended="12/30/2018 20:15:32" isEndedSynced="True" />
+    <Attempt id="24" started="12/31/2018 03:20:44" isStartedSynced="True" ended="12/31/2018 03:20:54" isEndedSynced="True" />
+    <Attempt id="25" started="12/31/2018 03:21:06" isStartedSynced="True" ended="12/31/2018 03:59:21" isEndedSynced="True" />
+    <Attempt id="26" started="12/31/2018 14:48:54" isStartedSynced="True" ended="12/31/2018 15:17:03" isEndedSynced="True">
       <PauseTime>00:00:54.6200000</PauseTime>
     </Attempt>
-    <Attempt ended="12/31/2018 17:40:51" id="27" isEndedSynced="True" isStartedSynced="True" started="12/31/2018 17:23:11" />
-    <Attempt ended="12/31/2018 17:50:38" id="28" isEndedSynced="True" isStartedSynced="True" started="12/31/2018 17:41:03" />
-    <Attempt ended="12/31/2018 18:47:15" id="29" isEndedSynced="True" isStartedSynced="True" started="12/31/2018 17:50:52" />
-    <Attempt ended="01/02/2019 02:48:24" id="30" isEndedSynced="True" isStartedSynced="True" started="01/02/2019 02:47:15" />
-    <Attempt ended="01/02/2019 03:11:11" id="31" isEndedSynced="True" isStartedSynced="True" started="01/02/2019 02:48:34" />
-    <Attempt ended="01/02/2019 04:29:08" id="32" isEndedSynced="True" isStartedSynced="True" started="01/02/2019 03:12:04">
+    <Attempt id="27" started="12/31/2018 17:23:11" isStartedSynced="True" ended="12/31/2018 17:40:51" isEndedSynced="True" />
+    <Attempt id="28" started="12/31/2018 17:41:03" isStartedSynced="True" ended="12/31/2018 17:50:38" isEndedSynced="True" />
+    <Attempt id="29" started="12/31/2018 17:50:52" isStartedSynced="True" ended="12/31/2018 18:47:15" isEndedSynced="True" />
+    <Attempt id="30" started="01/02/2019 02:47:15" isStartedSynced="True" ended="01/02/2019 02:48:24" isEndedSynced="True" />
+    <Attempt id="31" started="01/02/2019 02:48:34" isStartedSynced="True" ended="01/02/2019 03:11:11" isEndedSynced="True" />
+    <Attempt id="32" started="01/02/2019 03:12:04" isStartedSynced="True" ended="01/02/2019 04:29:08" isEndedSynced="True">
       <RealTime>01:17:04.2520000</RealTime>
     </Attempt>
-    <Attempt ended="01/03/2019 03:08:40" id="33" isEndedSynced="True" isStartedSynced="True" started="01/03/2019 03:08:24" />
-    <Attempt ended="01/03/2019 04:22:23" id="34" isEndedSynced="True" isStartedSynced="True" started="01/03/2019 03:08:52" />
-    <Attempt ended="01/03/2019 19:15:55" id="35" isEndedSynced="True" isStartedSynced="True" started="01/03/2019 19:12:14" />
-    <Attempt ended="01/03/2019 20:13:48" id="36" isEndedSynced="True" isStartedSynced="True" started="01/03/2019 19:16:07" />
-    <Attempt ended="01/07/2019 03:05:46" id="37" isEndedSynced="True" isStartedSynced="True" started="01/07/2019 03:03:10" />
-    <Attempt ended="01/07/2019 03:06:11" id="38" isEndedSynced="True" isStartedSynced="True" started="01/07/2019 03:05:55" />
-    <Attempt ended="01/07/2019 03:06:49" id="39" isEndedSynced="True" isStartedSynced="True" started="01/07/2019 03:06:33" />
-    <Attempt ended="01/07/2019 03:10:41" id="40" isEndedSynced="True" isStartedSynced="True" started="01/07/2019 03:07:00" />
-    <Attempt ended="01/07/2019 03:17:03" id="41" isEndedSynced="True" isStartedSynced="True" started="01/07/2019 03:11:02" />
-    <Attempt ended="01/07/2019 04:34:14" id="42" isEndedSynced="True" isStartedSynced="True" started="01/07/2019 03:17:14">
+    <Attempt id="33" started="01/03/2019 03:08:24" isStartedSynced="True" ended="01/03/2019 03:08:40" isEndedSynced="True" />
+    <Attempt id="34" started="01/03/2019 03:08:52" isStartedSynced="True" ended="01/03/2019 04:22:23" isEndedSynced="True" />
+    <Attempt id="35" started="01/03/2019 19:12:14" isStartedSynced="True" ended="01/03/2019 19:15:55" isEndedSynced="True" />
+    <Attempt id="36" started="01/03/2019 19:16:07" isStartedSynced="True" ended="01/03/2019 20:13:48" isEndedSynced="True" />
+    <Attempt id="37" started="01/07/2019 03:03:10" isStartedSynced="True" ended="01/07/2019 03:05:46" isEndedSynced="True" />
+    <Attempt id="38" started="01/07/2019 03:05:55" isStartedSynced="True" ended="01/07/2019 03:06:11" isEndedSynced="True" />
+    <Attempt id="39" started="01/07/2019 03:06:33" isStartedSynced="True" ended="01/07/2019 03:06:49" isEndedSynced="True" />
+    <Attempt id="40" started="01/07/2019 03:07:00" isStartedSynced="True" ended="01/07/2019 03:10:41" isEndedSynced="True" />
+    <Attempt id="41" started="01/07/2019 03:11:02" isStartedSynced="True" ended="01/07/2019 03:17:03" isEndedSynced="True" />
+    <Attempt id="42" started="01/07/2019 03:17:14" isStartedSynced="True" ended="01/07/2019 04:34:14" isEndedSynced="True">
       <RealTime>01:16:59.9180000</RealTime>
     </Attempt>
-    <Attempt ended="06/26/2019 02:24:07" id="43" isEndedSynced="True" isStartedSynced="True" started="06/26/2019 02:23:23" />
-    <Attempt ended="06/26/2019 02:30:08" id="44" isEndedSynced="True" isStartedSynced="True" started="06/26/2019 02:24:12" />
-    <Attempt ended="07/05/2019 01:30:17" id="45" isEndedSynced="True" isStartedSynced="True" started="07/05/2019 00:11:29">
+    <Attempt id="43" started="06/26/2019 02:23:23" isStartedSynced="True" ended="06/26/2019 02:24:07" isEndedSynced="True" />
+    <Attempt id="44" started="06/26/2019 02:24:12" isStartedSynced="True" ended="06/26/2019 02:30:08" isEndedSynced="True" />
+    <Attempt id="45" started="07/05/2019 00:11:29" isStartedSynced="True" ended="07/05/2019 01:30:17" isEndedSynced="True">
       <RealTime>01:18:48.3300000</RealTime>
     </Attempt>
-    <Attempt ended="07/12/2019 02:52:14" id="46" isEndedSynced="True" isStartedSynced="True" started="07/12/2019 01:35:15">
+    <Attempt id="46" started="07/12/2019 01:35:15" isStartedSynced="True" ended="07/12/2019 02:52:14" isEndedSynced="True">
       <RealTime>01:16:58.7250000</RealTime>
     </Attempt>
-    <Attempt ended="07/26/2019 01:22:24" id="47" isEndedSynced="True" isStartedSynced="True" started="07/26/2019 00:01:33">
+    <Attempt id="47" started="07/26/2019 00:01:33" isStartedSynced="True" ended="07/26/2019 01:22:24" isEndedSynced="True">
       <RealTime>01:20:51.3740000</RealTime>
     </Attempt>
-    <Attempt ended="08/02/2019 01:19:22" id="48" isEndedSynced="True" isStartedSynced="True" started="08/02/2019 00:02:11">
+    <Attempt id="48" started="08/02/2019 00:02:11" isStartedSynced="True" ended="08/02/2019 01:19:22" isEndedSynced="True">
       <RealTime>01:17:11.6320000</RealTime>
     </Attempt>
-    <Attempt ended="08/04/2019 02:26:51" id="49" isEndedSynced="True" isStartedSynced="True" started="08/04/2019 02:26:39" />
-    <Attempt ended="08/04/2019 03:18:36" id="50" isEndedSynced="True" isStartedSynced="True" started="08/04/2019 02:26:59" />
-    <Attempt ended="08/05/2019 03:08:16" id="51" isEndedSynced="True" isStartedSynced="True" started="08/05/2019 02:13:14" />
-    <Attempt ended="08/09/2019 00:49:20" id="52" isEndedSynced="True" isStartedSynced="True" started="08/09/2019 00:04:37" />
-    <Attempt ended="08/16/2019 01:19:14" id="53" isEndedSynced="True" isStartedSynced="True" started="08/16/2019 00:03:21">
+    <Attempt id="49" started="08/04/2019 02:26:39" isStartedSynced="True" ended="08/04/2019 02:26:51" isEndedSynced="True" />
+    <Attempt id="50" started="08/04/2019 02:26:59" isStartedSynced="True" ended="08/04/2019 03:18:36" isEndedSynced="True" />
+    <Attempt id="51" started="08/05/2019 02:13:14" isStartedSynced="True" ended="08/05/2019 03:08:16" isEndedSynced="True" />
+    <Attempt id="52" started="08/09/2019 00:04:37" isStartedSynced="True" ended="08/09/2019 00:49:20" isEndedSynced="True" />
+    <Attempt id="53" started="08/16/2019 00:03:21" isStartedSynced="True" ended="08/16/2019 01:19:14" isEndedSynced="True">
       <RealTime>01:15:52.6590000</RealTime>
     </Attempt>
-    <Attempt ended="09/20/2019 01:16:23" id="54" isEndedSynced="True" isStartedSynced="True" started="09/20/2019 00:00:53">
+    <Attempt id="54" started="09/20/2019 00:00:53" isStartedSynced="True" ended="09/20/2019 01:16:23" isEndedSynced="True">
       <RealTime>01:15:30.5080000</RealTime>
     </Attempt>
-    <Attempt ended="09/26/2019 23:59:54" id="55" isEndedSynced="True" isStartedSynced="True" started="09/26/2019 23:59:32" />
-    <Attempt ended="09/27/2019 00:23:24" id="56" isEndedSynced="True" isStartedSynced="True" started="09/26/2019 23:59:56" />
-    <Attempt ended="10/11/2019 00:03:11" id="57" isEndedSynced="True" isStartedSynced="True" started="10/11/2019 00:02:03" />
-    <Attempt ended="10/11/2019 00:06:13" id="58" isEndedSynced="True" isStartedSynced="True" started="10/11/2019 00:03:19" />
-    <Attempt ended="10/11/2019 00:07:23" id="59" isEndedSynced="True" isStartedSynced="True" started="10/11/2019 00:06:20" />
-    <Attempt ended="10/11/2019 00:08:31" id="60" isEndedSynced="True" isStartedSynced="True" started="10/11/2019 00:07:29" />
-    <Attempt ended="10/11/2019 00:11:28" id="61" isEndedSynced="True" isStartedSynced="True" started="10/11/2019 00:08:36" />
-    <Attempt ended="10/11/2019 01:06:50" id="62" isEndedSynced="True" isStartedSynced="True" started="10/11/2019 00:11:34" />
-    <Attempt ended="10/23/2019 01:13:02" id="63" isEndedSynced="True" isStartedSynced="True" started="10/23/2019 01:06:57" />
-    <Attempt ended="10/25/2019 00:03:01" id="64" isEndedSynced="True" isStartedSynced="True" started="10/25/2019 00:02:44" />
-    <Attempt ended="10/25/2019 00:51:33" id="65" isEndedSynced="True" isStartedSynced="True" started="10/25/2019 00:03:08" />
-    <Attempt ended="01/13/2020 05:21:12" id="66" isEndedSynced="True" isStartedSynced="True" started="01/13/2020 05:20:52" />
-    <Attempt ended="01/13/2020 06:27:30" id="67" isEndedSynced="True" isStartedSynced="True" started="01/13/2020 05:21:15" />
-    <Attempt ended="01/19/2020 06:32:43" id="68" isEndedSynced="True" isStartedSynced="True" started="01/19/2020 05:17:54">
+    <Attempt id="55" started="09/26/2019 23:59:32" isStartedSynced="True" ended="09/26/2019 23:59:54" isEndedSynced="True" />
+    <Attempt id="56" started="09/26/2019 23:59:56" isStartedSynced="True" ended="09/27/2019 00:23:24" isEndedSynced="True" />
+    <Attempt id="57" started="10/11/2019 00:02:03" isStartedSynced="True" ended="10/11/2019 00:03:11" isEndedSynced="True" />
+    <Attempt id="58" started="10/11/2019 00:03:19" isStartedSynced="True" ended="10/11/2019 00:06:13" isEndedSynced="True" />
+    <Attempt id="59" started="10/11/2019 00:06:20" isStartedSynced="True" ended="10/11/2019 00:07:23" isEndedSynced="True" />
+    <Attempt id="60" started="10/11/2019 00:07:29" isStartedSynced="True" ended="10/11/2019 00:08:31" isEndedSynced="True" />
+    <Attempt id="61" started="10/11/2019 00:08:36" isStartedSynced="True" ended="10/11/2019 00:11:28" isEndedSynced="True" />
+    <Attempt id="62" started="10/11/2019 00:11:34" isStartedSynced="True" ended="10/11/2019 01:06:50" isEndedSynced="True" />
+    <Attempt id="63" started="10/23/2019 01:06:57" isStartedSynced="True" ended="10/23/2019 01:13:02" isEndedSynced="True" />
+    <Attempt id="64" started="10/25/2019 00:02:44" isStartedSynced="True" ended="10/25/2019 00:03:01" isEndedSynced="True" />
+    <Attempt id="65" started="10/25/2019 00:03:08" isStartedSynced="True" ended="10/25/2019 00:51:33" isEndedSynced="True" />
+    <Attempt id="66" started="01/13/2020 05:20:52" isStartedSynced="True" ended="01/13/2020 05:21:12" isEndedSynced="True" />
+    <Attempt id="67" started="01/13/2020 05:21:15" isStartedSynced="True" ended="01/13/2020 06:27:30" isEndedSynced="True" />
+    <Attempt id="68" started="01/19/2020 05:17:54" isStartedSynced="True" ended="01/19/2020 06:32:43" isEndedSynced="True">
       <RealTime>01:14:49.3140000</RealTime>
     </Attempt>
-    <Attempt ended="02/07/2020 05:16:07" id="69" isEndedSynced="True" isStartedSynced="True" started="02/07/2020 05:04:20" />
+    <Attempt id="69" started="02/07/2020 05:04:20" isStartedSynced="True" ended="02/07/2020 05:16:07" isEndedSynced="True" />
+    <Attempt id="70" started="04/29/2020 02:48:42" isStartedSynced="True" ended="04/29/2020 04:03:37" isEndedSynced="True">
+      <RealTime>01:14:55.6390000</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>World 1</Name>
-      <Icon>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAHgIAAAKJUE5HDQoaCgAAAA1JSERSAAAAHQAAAB4IBgAAANAHFaEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAAI4oX8BXwAAAa1JREFUSEutkMFxwzAMBFVWninDpeSZslKafw4O5IFHEJIljTGzEgkSt5a3799twuql5L7evcu8sdDnz2MCPe1jrTN3aI8e7PxtL60Q9/4nxKj4CgKByin6lBhVfh1KJagsBVXoO9qjEFfl9wT2cug72oNBJq7k+vc6XcjCPgcfgfJQRcWLMEn97I40F0QoCM5KSSXJoCIsVykE1mP5uYG7cd9A+PPL+kJIu7ld7qEeZu8jKfB79lahrv1c5ijOn+0XUVgHMhj0M0oyOPOcNAfxIo0LPTQo+pUoziycFbPGJNUB4gPcd+GRiOX3RIpapDqAqvYkC/Pee0moVUr5iyb0PIlUiKwsxF5xn0opYe1JK/aE6GfGAsMiDWEh1S8jZ4VgLET6Tqh/qfcuCEF79GBIWGekzkUhGAv86i6lDLC4X6QiPiME86YHg1zoQcD3gglxpnl7jEUhYuGM4VjvocFHjIUN5UIP6BdhrwF3mDddQlSm4Iz3df4sYyESrHVfgXP+Gxp4hvZIQl0T9ti/KwRjUYSrpOpp0BXmzU44v0p7OneVtWGBFXqWZ66xbf/q/71ucDca5wAAAABJRU5ErkJgggs=</Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAHgIAAAKJUE5HDQoaCgAAAA1JSERSAAAAHQAAAB4IBgAAANAHFaEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAAI4oX8BXwAAAa1JREFUSEutkMFxwzAMBFVWninDpeSZslKafw4O5IFHEJIljTGzEgkSt5a3799twuql5L7evcu8sdDnz2MCPe1jrTN3aI8e7PxtL60Q9/4nxKj4CgKByin6lBhVfh1KJagsBVXoO9qjEFfl9wT2cug72oNBJq7k+vc6XcjCPgcfgfJQRcWLMEn97I40F0QoCM5KSSXJoCIsVykE1mP5uYG7cd9A+PPL+kJIu7ld7qEeZu8jKfB79lahrv1c5ijOn+0XUVgHMhj0M0oyOPOcNAfxIo0LPTQo+pUoziycFbPGJNUB4gPcd+GRiOX3RIpapDqAqvYkC/Pee0moVUr5iyb0PIlUiKwsxF5xn0opYe1JK/aE6GfGAsMiDWEh1S8jZ4VgLET6Tqh/qfcuCEF79GBIWGekzkUhGAv86i6lDLC4X6QiPiME86YHg1zoQcD3gglxpnl7jEUhYuGM4VjvocFHjIUN5UIP6BdhrwF3mDddQlSm4Iz3df4sYyESrHVfgXP+Gxp4hvZIQl0T9ti/KwRjUYSrpOpp0BXmzU44v0p7OneVtWGBFXqWZ66xbf/q/71ucDca5wAAAABJRU5ErkJgggs=]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:05:13.5450000</RealTime>
@@ -128,7 +132,7 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:05:10.6050000</RealTime>
-        <GameTime>00:05:02.9690936</GameTime>
+        <GameTime>00:05:02.9690000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
@@ -260,11 +264,14 @@
         <Time id="69">
           <RealTime>00:05:18.7940000</RealTime>
         </Time>
+        <Time id="70">
+          <RealTime>00:05:14.6320000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>World 2</Name>
-      <Icon>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAASwIAAAKJUE5HDQoaCgAAAA1JSERSAAAAIgAAACEIBgAAALzTeWwAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIFFzs3NJiLbwAAAdpJREFUWEetkut1gzAUg7NDR+oS/dfxOkbGyRgU2ZYRigAD0TmfH9f2lcLJY5qmIWbNUz77BLHoIMTz+cRi3uY7d4lFBwE0TMLfnCUWFZhoAK4xKzz396PEopMC0FhrrPv7EWIx4YZqTLj3tyPEokOTPe6GiUXnKAjFPUPNeu/1/TMpvc7FFkchAMR7mF+/XwUP04ynv9cCw/RLia0QqBOvawgPk4IwzMrYcSM3oxHRup73fi0INByEzfdCjLAVBDoM0h6XJmA0iL6Tufa0EKoYhE0oBvAgWDshVO1pIYqxgNIqAOCvV/QMsxomcKf3DSEwOXWoD7s8BIQZ7IXhnc5gCFCHMlUxAKVn3WADD6baCwHqUKb1l+CeZ1Ay20J1FALUYZ40hHI1CIAwtx7dNAHFAEprVIS1G+7R3q5ME1Axo2hOXQmCOwRPRoC6MUP4vjUswvoIXDtLHeZJQ2iA1rhI10ntvPQ8y7KYlx6gNe5KNarVe7+z1KE1pxH3KtT0P6BfjuFx7Sp1CMYqDZHC3A0BlkUIgxrwEITnuHqX9aY1JslcwR19f4dlEYz3wuDs40G2QmydKbx3lzcj7LW5nyuU3r9KHZq5N8Q+BQAqf3eFWFRgcoS/Oc/0+Ad+p7CJWlIpIAAAAABJRU5ErkJgggs=</Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAASwIAAAKJUE5HDQoaCgAAAA1JSERSAAAAIgAAACEIBgAAALzTeWwAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIFFzs3NJiLbwAAAdpJREFUWEetkut1gzAUg7NDR+oS/dfxOkbGyRgU2ZYRigAD0TmfH9f2lcLJY5qmIWbNUz77BLHoIMTz+cRi3uY7d4lFBwE0TMLfnCUWFZhoAK4xKzz396PEopMC0FhrrPv7EWIx4YZqTLj3tyPEokOTPe6GiUXnKAjFPUPNeu/1/TMpvc7FFkchAMR7mF+/XwUP04ynv9cCw/RLia0QqBOvawgPk4IwzMrYcSM3oxHRup73fi0INByEzfdCjLAVBDoM0h6XJmA0iL6Tufa0EKoYhE0oBvAgWDshVO1pIYqxgNIqAOCvV/QMsxomcKf3DSEwOXWoD7s8BIQZ7IXhnc5gCFCHMlUxAKVn3WADD6baCwHqUKb1l+CeZ1Ay20J1FALUYZ40hHI1CIAwtx7dNAHFAEprVIS1G+7R3q5ME1Axo2hOXQmCOwRPRoC6MUP4vjUswvoIXDtLHeZJQ2iA1rhI10ntvPQ8y7KYlx6gNe5KNarVe7+z1KE1pxH3KtT0P6BfjuFx7Sp1CMYqDZHC3A0BlkUIgxrwEITnuHqX9aY1JslcwR19f4dlEYz3wuDs40G2QmydKbx3lzcj7LW5nyuU3r9KHZq5N8Q+BQAqf3eFWFRgcoS/Oc/0+Ad+p7CJWlIpIAAAAABJRU5ErkJgggs=]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:12:16.8240000</RealTime>
@@ -274,7 +281,7 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:54.3520000</RealTime>
-        <GameTime>00:06:45.2715798</GameTime>
+        <GameTime>00:06:45.2720000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
@@ -385,11 +392,14 @@
         <Time id="68">
           <RealTime>00:07:03.2790000</RealTime>
         </Time>
+        <Time id="70">
+          <RealTime>00:06:58.2250000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>World 3</Name>
-      <Icon>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAASAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAHAAAACIIBgAAAEx9uUkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAAQ1iZTaZAAAAddJREFUWEelk0FSwzAUQ3MslhyDo7Dk2Owgz7FaWf5OUtDMq219WxqgbO9f25JdP6Ka/4XSBEpcnCHvVP4ZtbkHoO+3reFSeN6Rf8VsRJBw6Q7yO/iZl8zGRSHz78+PshQv85LZKIJczCnMUvaZVVGbFpRiBl7IWuVUzMZFmf/6tGqWWRWzYaEu97X3NXNWzIYFg5Q+Z/dZM6uiNnuIpHOWSZyrnIrSBEKSqtDnVU5Smg5B+jfQN9NLfc6+ynBKU3iYgy+qGW/Tf2RqU1EFXqE3SH+Cxu61zCwRPNTjJREIejMV9jtlCSDtFTawByAP5C45zCWf4w9leUEeK2Qh+FxZXogemSpsYTIDZojV8VLOqzLXUNgMK9JZM9ZWwqN976zKdF/0rmdJBXPU7tljznBWppmDhoJ22c7MUbsXhe67VmWAjktW4mjO+t8yQGURMJMe96zw1TJAQ0l72PcKbnd6OPvKv1MGxwcPrZQzSG2+B+ZM+7tl8Nz0x+Di3Mr6T+J3fPXQM46P/tCFByoT8nVHawavOD56SJJlgpmKtGbwCjQEZXB67r9aBsdHD4D2xYng9H2WgVeMBwUHZ76/v8N46MFaPbjy5XnGFbPRA1jFyge9u8e2/QLN+Ta94dNwVQAAAABJRU5ErkJgggs=</Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAASAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAHAAAACIIBgAAAEx9uUkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAAQ1iZTaZAAAAddJREFUWEelk0FSwzAUQ3MslhyDo7Dk2Owgz7FaWf5OUtDMq219WxqgbO9f25JdP6Ka/4XSBEpcnCHvVP4ZtbkHoO+3reFSeN6Rf8VsRJBw6Q7yO/iZl8zGRSHz78+PshQv85LZKIJczCnMUvaZVVGbFpRiBl7IWuVUzMZFmf/6tGqWWRWzYaEu97X3NXNWzIYFg5Q+Z/dZM6uiNnuIpHOWSZyrnIrSBEKSqtDnVU5Smg5B+jfQN9NLfc6+ynBKU3iYgy+qGW/Tf2RqU1EFXqE3SH+Cxu61zCwRPNTjJREIejMV9jtlCSDtFTawByAP5C45zCWf4w9leUEeK2Qh+FxZXogemSpsYTIDZojV8VLOqzLXUNgMK9JZM9ZWwqN976zKdF/0rmdJBXPU7tljznBWppmDhoJ22c7MUbsXhe67VmWAjktW4mjO+t8yQGURMJMe96zw1TJAQ0l72PcKbnd6OPvKv1MGxwcPrZQzSG2+B+ZM+7tl8Nz0x+Di3Mr6T+J3fPXQM46P/tCFByoT8nVHawavOD56SJJlgpmKtGbwCjQEZXB67r9aBsdHD4D2xYng9H2WgVeMBwUHZ76/v8N46MFaPbjy5XnGFbPRA1jFyge9u8e2/QLN+Ta94dNwVQAAAABJRU5ErkJgggs=]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:21:57.3550000</RealTime>
@@ -399,7 +409,7 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:09:09.1860000</RealTime>
-        <GameTime>00:08:51.0634781</GameTime>
+        <GameTime>00:08:51.0630000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
@@ -504,11 +514,14 @@
         <Time id="68">
           <RealTime>00:09:40.5310000</RealTime>
         </Time>
+        <Time id="70">
+          <RealTime>00:09:28.4420000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>World 4</Name>
-      <Icon>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATQIAAAKJUE5HDQoaCgAAAA1JSERSAAAAHAAAACIIBgAAAEx9uUkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAAY4xRPEWwAAAdxJREFUWEetkcFxwzAMBNVDGsovZaSNPNNLiksL+TlciEcdYciSPMbMSgQo3lry8v69nKbVDaq9s5RDyOGso34+Yu74uSPqIeEtmGKt3tfap5hVORX3AwX2IIX7nKIXOeMR94MerHu1Bj3r/Rnmph2M4P4GWvss5lp//W203rP2mBuXqIofwNpFV6Rzk4Uus6JHMNa95+55FXPjwcgktzXPBF1IqefueRVzg1CSXszuIPwVwhi0Q9Pb9PCK8cxLhPkTOq8UxrAdnKRdoNDAe1tXeU45BA4j5D4CLdjn+nGac/738+3mjFwtKiLARU4Pd9m0Tl9G0lIkOOiHBkmWib0kBKSlCDik+zj0QKQ9IFhVCv1h9fGw5l32SKJi7UJqEvrDVNWLLMs9ZJnXnVC/ZML3k8RlfJkso3f611sDJVDtCSv2ZMwz239owiErhP5G4qwM1osJj2T+GeGKDKh4EIHqjHBgdSSD9cKv7UKJQDX6SgitzshgW/RQyBWzFqx7BXsevMd6KSSq2LPQPXLwHuulHcjFLOZPvMUjtkUXCBc57Ol5nb3CejEBa+8rYr9/hRx4BDUH2VpoNp55UgbrpQieBMUsB51lW+wE62185gFXmZsW5mjme/78dZblHwwoROtj7mCQAAAAAElFTkSuQmCCCw==</Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAATQIAAAKJUE5HDQoaCgAAAA1JSERSAAAAHAAAACIIBgAAAEx9uUkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAAY4xRPEWwAAAdxJREFUWEetkcFxwzAMBNVDGsovZaSNPNNLiksL+TlciEcdYciSPMbMSgQo3lry8v69nKbVDaq9s5RDyOGso34+Yu74uSPqIeEtmGKt3tfap5hVORX3AwX2IIX7nKIXOeMR94MerHu1Bj3r/Rnmph2M4P4GWvss5lp//W203rP2mBuXqIofwNpFV6Rzk4Uus6JHMNa95+55FXPjwcgktzXPBF1IqefueRVzg1CSXszuIPwVwhi0Q9Pb9PCK8cxLhPkTOq8UxrAdnKRdoNDAe1tXeU45BA4j5D4CLdjn+nGac/738+3mjFwtKiLARU4Pd9m0Tl9G0lIkOOiHBkmWib0kBKSlCDik+zj0QKQ9IFhVCv1h9fGw5l32SKJi7UJqEvrDVNWLLMs9ZJnXnVC/ZML3k8RlfJkso3f611sDJVDtCSv2ZMwz239owiErhP5G4qwM1osJj2T+GeGKDKh4EIHqjHBgdSSD9cKv7UKJQDX6SgitzshgW/RQyBWzFqx7BXsevMd6KSSq2LPQPXLwHuulHcjFLOZPvMUjtkUXCBc57Ol5nb3CejEBa+8rYr9/hRx4BDUH2VpoNp55UgbrpQieBMUsB51lW+wE62185gFXmZsW5mjme/78dZblHwwoROtj7mCQAAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:29:44.9360000</RealTime>
@@ -518,7 +531,7 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:07:47.5810000</RealTime>
-        <GameTime>00:07:25.4411391</GameTime>
+        <GameTime>00:07:25.4410000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
@@ -611,11 +624,14 @@
         <Time id="68">
           <RealTime>00:07:47.5810000</RealTime>
         </Time>
+        <Time id="70">
+          <RealTime>00:07:58.3830000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>World 5</Name>
-      <Icon>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAASwIAAAKJUE5HDQoaCgAAAA1JSERSAAAAIgAAAB8IBgAAAIKjH7EAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAAkP+jZ9mwAAAdpJREFUWEe1ktFNxDAQRNMDDSHRBBIftEK3lHHk2Te5yd7YSUCM9Jxlvd4ZEMvr13KZVbdKmrtCbM7A1PW9fDToQ3pzhtgcgZGMXeopUHp7RGwmUgh6IP17EJYrxCgMSNRpz4zYrLC4BpmFUR13vb3fnK3vQwkWphCOq81/vjSod7tWY+RvFWZnWmGRP9oer31R+x6ihklB2jv+Om5cacvqIzOTkfC+32/77kHQbucsCAtg92BgNoL53U4Lgg6DsADxhTNBNOvsdpYQrhiEBa4tQAlC7bN+p/ttZwnRjI024wFAv73j/VYXw7bc+tSzELpz+nFfJtUQiO8sjL47ToaAfqyPJJlJfkc9w8OBaxYC+rEuQQqhIHx1h6ir2QjXUQjoBwYWwuFOanPBdER7cyIEoBjAYUZq88F0BPPJuIKamSRz6TdBmBHJNIE2Y4WoPzMjUR+RjI7ox/rYQ3gAkLxO4r4anOVRWBhq4fJ+vaf2xVfpx30hX1FFb/b/UBdfpR/B2MV9CiG4r4uv8ihCGHqQzB3N+eKrPIr7skoyHsG8L79CP4IhvUqdcSTmqskZ0NPSsz3hYi4ZHdGP9bGTzKDOJarBWfY/rItSACH9xXDEc8N+uxH1zd9Zlh8etH1EyCmnaQAAAABJRU5ErkJgggs=</Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAASwIAAAKJUE5HDQoaCgAAAA1JSERSAAAAIgAAAB8IBgAAAIKjH7EAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAAkP+jZ9mwAAAdpJREFUWEe1ktFNxDAQRNMDDSHRBBIftEK3lHHk2Te5yd7YSUCM9Jxlvd4ZEMvr13KZVbdKmrtCbM7A1PW9fDToQ3pzhtgcgZGMXeopUHp7RGwmUgh6IP17EJYrxCgMSNRpz4zYrLC4BpmFUR13vb3fnK3vQwkWphCOq81/vjSod7tWY+RvFWZnWmGRP9oer31R+x6ihklB2jv+Om5cacvqIzOTkfC+32/77kHQbucsCAtg92BgNoL53U4Lgg6DsADxhTNBNOvsdpYQrhiEBa4tQAlC7bN+p/ttZwnRjI024wFAv73j/VYXw7bc+tSzELpz+nFfJtUQiO8sjL47ToaAfqyPJJlJfkc9w8OBaxYC+rEuQQqhIHx1h6ir2QjXUQjoBwYWwuFOanPBdER7cyIEoBjAYUZq88F0BPPJuIKamSRz6TdBmBHJNIE2Y4WoPzMjUR+RjI7ox/rYQ3gAkLxO4r4anOVRWBhq4fJ+vaf2xVfpx30hX1FFb/b/UBdfpR/B2MV9CiG4r4uv8ihCGHqQzB3N+eKrPIr7skoyHsG8L79CP4IhvUqdcSTmqskZ0NPSsz3hYi4ZHdGP9bGTzKDOJarBWfY/rItSACH9xXDEc8N+uxH1zd9Zlh8etH1EyCmnaQAAAABJRU5ErkJgggs=]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:40:01.0740000</RealTime>
@@ -625,7 +641,7 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:10:08.9580000</RealTime>
-        <GameTime>00:09:48.8635745</GameTime>
+        <GameTime>00:09:48.8640000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
@@ -712,11 +728,14 @@
         <Time id="68">
           <RealTime>00:10:16.1380000</RealTime>
         </Time>
+        <Time id="70">
+          <RealTime>00:10:16.9720000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>World 6</Name>
-      <Icon>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlwIAAAKJUE5HDQoaCgAAAA1JSERSAAAAHQAAAC8IBgAAAB8hwakAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAAsv824/0QAAAiZJREFUWEe1lFFygzAMRDla/3qt3qWfPWTiFV68Fmsw0GjmYVmW9UqayfL1szyixEtxPRlbPIKDsYLX73ejBM+PsMURlGBd/kRYZXru7hNbdGAQRSqMukg0H2GLDgzb3opSyWdkxBYzKoyVeQmcAXdvhC1mMHR7s5pjJe7OEbbooAAfJ3MGcndnhC1mMDRkRIQM1Nxdhy0qGBZflhpOGj2fkHZMSrcvXYX1rskRA4uIoWLCoch5L2rajxlVvJNkMEgvxr5CGYVccS/qSQqiJ0sUDsBKISUjeCf2NYbSGFzhPi7IPmpJkOE8lSJ2UjRrjPaxilBzypywC/RnqX4UG3ousimh9ILwqZQSxkg6wgn1DyItwUWRbkIjxbDop4hoDISgJSI9E1o0yl4lmfVRB0PCuCTVKPssybSkDKSUMsDgedSyFCDKqsNH9JsqAjmiVoZqjzIrBC3BxUFwKKU64A4tMVLUol6FH5FmVKbgTIdcZX2IIOeENT3Lw2ZBdIN08EwduMFHrI96GeSBwPXEWgO5Dj1jX5DhDteTZ5yxL3AYf5EyN0VKvxFZfIQqyzwQtyQJt/+tijI3xetDhGBaCm6I18fgLR2dENyRUugEmZ2QXBSH1AkyVkbuSHnZyUgnyTyRAicE2rPjU1LQ9eHnj/v/kp7WnkjjIeI8/JSLQrA+0tue8eQtQUsmxU+FoN9ceeObQrAvQHwkr+f53hVsEXB4xvVeY1neRmW/rF2o7H4AAAAASUVORK5CYIIL</Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlwIAAAKJUE5HDQoaCgAAAA1JSERSAAAAHQAAAC8IBgAAAB8hwakAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAAsv824/0QAAAiZJREFUWEe1lFFygzAMRDla/3qt3qWfPWTiFV68Fmsw0GjmYVmW9UqayfL1szyixEtxPRlbPIKDsYLX73ejBM+PsMURlGBd/kRYZXru7hNbdGAQRSqMukg0H2GLDgzb3opSyWdkxBYzKoyVeQmcAXdvhC1mMHR7s5pjJe7OEbbooAAfJ3MGcndnhC1mMDRkRIQM1Nxdhy0qGBZflhpOGj2fkHZMSrcvXYX1rskRA4uIoWLCoch5L2rajxlVvJNkMEgvxr5CGYVccS/qSQqiJ0sUDsBKISUjeCf2NYbSGFzhPi7IPmpJkOE8lSJ2UjRrjPaxilBzypywC/RnqX4UG3ousimh9ILwqZQSxkg6wgn1DyItwUWRbkIjxbDop4hoDISgJSI9E1o0yl4lmfVRB0PCuCTVKPssybSkDKSUMsDgedSyFCDKqsNH9JsqAjmiVoZqjzIrBC3BxUFwKKU64A4tMVLUol6FH5FmVKbgTIdcZX2IIOeENT3Lw2ZBdIN08EwduMFHrI96GeSBwPXEWgO5Dj1jX5DhDteTZ5yxL3AYf5EyN0VKvxFZfIQqyzwQtyQJt/+tijI3xetDhGBaCm6I18fgLR2dENyRUugEmZ2QXBSH1AkyVkbuSHnZyUgnyTyRAicE2rPjU1LQ9eHnj/v/kp7WnkjjIeI8/JSLQrA+0tue8eQtQUsmxU+FoN9ceeObQrAvQHwkr+f53hVsEXB4xvVeY1neRmW/rF2o7H4AAAAASUVORK5CYIIL]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:51:59.3360000</RealTime>
@@ -726,7 +745,7 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:11:38.9270000</RealTime>
-        <GameTime>00:11:11.5627630</GameTime>
+        <GameTime>00:11:11.5630000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
@@ -801,11 +820,14 @@
         <Time id="68">
           <RealTime>00:11:58.2620000</RealTime>
         </Time>
+        <Time id="70">
+          <RealTime>00:12:08.6710000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>World 7</Name>
-      <Icon>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAIgAAACIIBgAAADpHC8IAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAA0cGuT5QQAAAiNJREFUWEelktFx3DAQQ6+HNJSZNOG/lJL8u5iU5TIcPpKgoA10pi6YeRRJ7S5wmnt8//3YoumzkupeJV46Mk3SO0i9dxhLGKa7XalffTrvguao8y98RbWPczJNjKU1/Pl1z3y3fjfMWGaQO2FUT6/Evp6r4RVjmQM8zE4oD9N5fx+0PeJZDa9Aqwk0fCeIS/0KAsnwirHMAK47geiX2CtMNXvGWGgOYXaFcX8qxAtfBR1DGldf4SqkjPueGTOE5rBPxpWxzEaXBkmphruOvkIIoecy/PH26ZyC9M0cWs1cvWaaqVZG9c7hXiHQx89vC4VZQQRNQoNcfr8LPX12CKIw/wRxGADS1ad3vB5xXvNmELQVhGZA2ndKEBknJPZrrgVBMQgNi/nHk7jTM4W5CqSeFMK1gqhJUpCFvWd/FcbpdY0UohsbvaYG8QBSDFOoIZh7FULvnLG0xl5kIRRknWcNYl9/eaXP3QwBY6HZzNEKIFqNxL5+AbHuboSAsTBkGvYmDwDtvYuzB0m4vgoBY7EgQqpB2CfjRK/fCAFjmUY1SA2BOEMyruyGgGODgQVRCJB0dmKA+c6NvuJ8MAOo4i4ZVnzmLsemDXgm3nsIh3c+9BXOhxCGO0gBhGp81l3OhzmwkswT1Pq8OxybYsg54TWORI0b7DKWYsC53um+3oGLmmqyw7GZ5iIZQq2r+PA75Ms2MIUA6X9ME/ESMHpG6nmdx+MvnB0W/Y4nm+8AAAAASUVORK5CYIIL</Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAIgAAACIIBgAAADpHC8IAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGAA0cGuT5QQAAAiNJREFUWEelktFx3DAQQ6+HNJSZNOG/lJL8u5iU5TIcPpKgoA10pi6YeRRJ7S5wmnt8//3YoumzkupeJV46Mk3SO0i9dxhLGKa7XalffTrvguao8y98RbWPczJNjKU1/Pl1z3y3fjfMWGaQO2FUT6/Evp6r4RVjmQM8zE4oD9N5fx+0PeJZDa9Aqwk0fCeIS/0KAsnwirHMAK47geiX2CtMNXvGWGgOYXaFcX8qxAtfBR1DGldf4SqkjPueGTOE5rBPxpWxzEaXBkmphruOvkIIoecy/PH26ZyC9M0cWs1cvWaaqVZG9c7hXiHQx89vC4VZQQRNQoNcfr8LPX12CKIw/wRxGADS1ad3vB5xXvNmELQVhGZA2ndKEBknJPZrrgVBMQgNi/nHk7jTM4W5CqSeFMK1gqhJUpCFvWd/FcbpdY0UohsbvaYG8QBSDFOoIZh7FULvnLG0xl5kIRRknWcNYl9/eaXP3QwBY6HZzNEKIFqNxL5+AbHuboSAsTBkGvYmDwDtvYuzB0m4vgoBY7EgQqpB2CfjRK/fCAFjmUY1SA2BOEMyruyGgGODgQVRCJB0dmKA+c6NvuJ8MAOo4i4ZVnzmLsemDXgm3nsIh3c+9BXOhxCGO0gBhGp81l3OhzmwkswT1Pq8OxybYsg54TWORI0b7DKWYsC53um+3oGLmmqyw7GZ5iIZQq2r+PA75Ms2MIUA6X9ME/ESMHpG6nmdx+MvnB0W/Y4nm+8AAAAASUVORK5CYIIL]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>01:04:03.3510000</RealTime>
@@ -814,8 +836,8 @@
         <SplitTime name="WR" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:12:04.0150000</RealTime>
-        <GameTime>00:11:33.2400124</GameTime>
+        <RealTime>00:11:42.9270000</RealTime>
+        <GameTime>00:11:33.2400000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
@@ -869,11 +891,14 @@
         <Time id="68">
           <RealTime>00:12:04.0150000</RealTime>
         </Time>
+        <Time id="70">
+          <RealTime>00:11:42.9270000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>World 8</Name>
-      <Icon>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAJQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAIgAAACkIBgAAAFCA+wEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGABApsztRfgAAArRJREFUWEetlEF2GzEMQ+do3XXRZS6UW/QovZp3jkAJNERBM+M0fO87EkUBGI9fjuPX5/9xHM/T/V1s8y7N9PF4PNO8/UXl/h1s8y4jCMM8//7ufCeMbZ4BA5rAvJWGid4IxH1QdSq2uQMmo9Jg9BhGA/EMFXunSWzzDIrLU7NqGM4ErdALrK5rXkETVAmDwv7j358A65zXQItmbZxBURbFRxjCEAyyvDKr7ZqOJsAn0gAMoeYKzuorm0h9NdvRLrgABOcuBMBZDVHvdo9q6sDlVvybdRGCYIZBaogMY40dMTyCFLGduZ7FXbmn9Fln6oAQiyKt1MyZdpN9CNBnnGkFQigVaEWTXYgr8ncTHtXUMcTVJASEu0H0h/t+EKAXBxTVbwfQVGd4VvcvfTVTOChQRJ+efRZ7GiZR3cWvNqLZhFpV4x2Y5ywqjKAxwiyhrKdt3guiZ7hTg4ROCZOBFs/aiGYPglLjSg2Key7MgvW0zfV/A6oaV3BvCeL0Hb75M0G2r8GxNrpYNWHVPggzE+L7QYbY2VNX9A4LPZyhh/XksWNtrK9lR5iMIKx6P2aKfjL1dRON8yB8eqwxy72G0PN8PQO+MsxEL301RDReQVA0Yk/XmMWepXexpqkD57PvtOnCFEPVICSExjwK63ruApC4P3nrJhrzN4JSA4I5hkTxHvZYO/MK5l6+GiIa85M5QqDBECi9h7UzrjC0DxLNfZi42KjfhsOZk5xLTw2gtKGzAAyBQp/ii9GAfYC70Z/8dJPNbhjDAw0AWDhTk7xjNCeW86XRB1E7c1bMSYgpTNW9Yt7M38Su8tyEAHGuund4Lbo4n557hzNXYk5N7tA/1t+EMwB3zxejK/rHuTjh3Fuz1XDHlWgKUvRinkyvuJo6+oeYVZYL7wW5HcY2r9Cgd3AaE5/HF/U1eHiQly9LAAAAAElFTkSuQmCCCw==</Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAJQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAIgAAACkIBgAAAFCA+wEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH3gIGABApsztRfgAAArRJREFUWEetlEF2GzEMQ+do3XXRZS6UW/QovZp3jkAJNERBM+M0fO87EkUBGI9fjuPX5/9xHM/T/V1s8y7N9PF4PNO8/UXl/h1s8y4jCMM8//7ufCeMbZ4BA5rAvJWGid4IxH1QdSq2uQMmo9Jg9BhGA/EMFXunSWzzDIrLU7NqGM4ErdALrK5rXkETVAmDwv7j358A65zXQItmbZxBURbFRxjCEAyyvDKr7ZqOJsAn0gAMoeYKzuorm0h9NdvRLrgABOcuBMBZDVHvdo9q6sDlVvybdRGCYIZBaogMY40dMTyCFLGduZ7FXbmn9Fln6oAQiyKt1MyZdpN9CNBnnGkFQigVaEWTXYgr8ncTHtXUMcTVJASEu0H0h/t+EKAXBxTVbwfQVGd4VvcvfTVTOChQRJ+efRZ7GiZR3cWvNqLZhFpV4x2Y5ywqjKAxwiyhrKdt3guiZ7hTg4ROCZOBFs/aiGYPglLjSg2Key7MgvW0zfV/A6oaV3BvCeL0Hb75M0G2r8GxNrpYNWHVPggzE+L7QYbY2VNX9A4LPZyhh/XksWNtrK9lR5iMIKx6P2aKfjL1dRON8yB8eqwxy72G0PN8PQO+MsxEL301RDReQVA0Yk/XmMWepXexpqkD57PvtOnCFEPVICSExjwK63ruApC4P3nrJhrzN4JSA4I5hkTxHvZYO/MK5l6+GiIa85M5QqDBECi9h7UzrjC0DxLNfZi42KjfhsOZk5xLTw2gtKGzAAyBQp/ii9GAfYC70Z/8dJPNbhjDAw0AWDhTk7xjNCeW86XRB1E7c1bMSYgpTNW9Yt7M38Su8tyEAHGuund4Lbo4n557hzNXYk5N7tA/1t+EMwB3zxejK/rHuTjh3Fuz1XDHlWgKUvRinkyvuJo6+oeYVZYL7wW5HcY2r9Cgd3AaE5/HF/U1eHiQly9LAAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>01:14:49.3140000</RealTime>
@@ -883,7 +908,7 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:10:35.2080000</RealTime>
-        <GameTime>00:10:28.2352060</GameTime>
+        <GameTime>00:10:28.2350000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
@@ -931,23 +956,11 @@
         <Time id="68">
           <RealTime>00:10:45.9630000</RealTime>
         </Time>
+        <Time id="70">
+          <RealTime>00:11:07.3870000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
   </Segments>
-  <AutoSplitterSettings>
-    <Version>1.5</Version>
-    <ScriptPath>D:\downloads\livesplit\Components\smb3.asl</ScriptPath>
-    <Start>True</Start>
-    <Split>True</Split>
-    <CustomSettings>
-      <Setting id="worlds" type="bool">True</Setting>
-      <Setting id="start" type="bool">False</Setting>
-      <Setting id="bowserDoor" type="bool">False</Setting>
-      <Setting id="warp" type="bool">False</Setting>
-      <Setting id="princess" type="bool">False</Setting>
-      <Setting id="levelComplete" type="bool">False</Setting>
-      <Setting id="largeChest" type="bool">False</Setting>
-      <Setting id="smallChest" type="bool">False</Setting>
-    </CustomSettings>
-  </AutoSplitterSettings>
+  <AutoSplitterSettings />
 </Run>
