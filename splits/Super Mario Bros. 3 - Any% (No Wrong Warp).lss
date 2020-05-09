@@ -10,7 +10,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>496</AttemptCount>
+  <AttemptCount>497</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="08/23/2017 20:20:10" isStartedSynced="True" ended="08/23/2017 20:20:27" isEndedSynced="True" />
     <Attempt id="2" started="08/23/2017 20:20:30" isStartedSynced="True" ended="08/23/2017 20:20:40" isEndedSynced="True" />
@@ -529,6 +529,9 @@
     <Attempt id="495" started="02/03/2020 06:27:30" isStartedSynced="True" ended="02/03/2020 06:38:35" isEndedSynced="True">
       <RealTime>00:11:04.8630000</RealTime>
     </Attempt>
+    <Attempt id="496" started="05/08/2020 03:40:07" isStartedSynced="True" ended="05/08/2020 03:52:44" isEndedSynced="True">
+      <RealTime>00:12:37.4130000</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -540,9 +543,12 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:56.4230000</RealTime>
+        <RealTime>00:01:55.9990000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
+        <Time id="485">
+          <RealTime>00:01:59.6000000</RealTime>
+        </Time>
         <Time id="461">
           <RealTime>00:02:00.1830000</RealTime>
         </Time>
@@ -573,9 +579,6 @@
         <Time id="484">
           <RealTime>00:01:59.3020000</RealTime>
         </Time>
-        <Time id="0">
-          <RealTime>00:01:59.6000000</RealTime>
-        </Time>
         <Time id="486">
           <RealTime>00:01:59.4940000</RealTime>
         </Time>
@@ -587,6 +590,9 @@
         </Time>
         <Time id="495">
           <RealTime>00:01:59.6120000</RealTime>
+        </Time>
+        <Time id="496">
+          <RealTime>00:01:55.9990000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -602,6 +608,9 @@
         <RealTime>00:04:41</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
+        <Time id="485">
+          <RealTime>00:04:41</RealTime>
+        </Time>
         <Time id="466">
           <RealTime>00:05:01.5560000</RealTime>
         </Time>
@@ -617,14 +626,14 @@
         <Time id="482">
           <RealTime>00:05:04.5480000</RealTime>
         </Time>
-        <Time id="0">
-          <RealTime>00:04:41</RealTime>
-        </Time>
         <Time id="486">
           <RealTime>00:04:57.9400000</RealTime>
         </Time>
         <Time id="495">
           <RealTime>00:04:42.9400000</RealTime>
+        </Time>
+        <Time id="496">
+          <RealTime>00:05:20.4000000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -640,6 +649,9 @@
         <RealTime>00:01:47.6880000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
+        <Time id="485">
+          <RealTime>00:01:58.1000000</RealTime>
+        </Time>
         <Time id="466">
           <RealTime>00:01:58.8150000</RealTime>
         </Time>
@@ -652,14 +664,14 @@
         <Time id="470">
           <RealTime>00:01:48.6060000</RealTime>
         </Time>
-        <Time id="0">
-          <RealTime>00:01:58.1000000</RealTime>
-        </Time>
         <Time id="486">
           <RealTime>00:01:52.3900000</RealTime>
         </Time>
         <Time id="495">
           <RealTime>00:01:47.6880000</RealTime>
+        </Time>
+        <Time id="496">
+          <RealTime>00:02:17.2080000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -675,14 +687,14 @@
         <RealTime>00:02:34.6230000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
+        <Time id="485">
+          <RealTime>00:02:47.3000000</RealTime>
+        </Time>
         <Time id="466">
           <RealTime>00:02:34.6480000</RealTime>
         </Time>
         <Time id="467">
           <RealTime>00:02:37.0860000</RealTime>
-        </Time>
-        <Time id="0">
-          <RealTime>00:02:47.3000000</RealTime>
         </Time>
         <Time id="486">
           <RealTime>00:02:35.7990000</RealTime>
@@ -690,23 +702,11 @@
         <Time id="495">
           <RealTime>00:02:34.6230000</RealTime>
         </Time>
+        <Time id="496">
+          <RealTime>00:03:03.8060000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
   </Segments>
-  <AutoSplitterSettings>
-    <Version>1.5</Version>
-    <ScriptPath>D:\downloads\livesplit\Components\smb3.asl</ScriptPath>
-    <Start>True</Start>
-    <Split>True</Split>
-    <CustomSettings>
-      <Setting id="worlds" type="bool">True</Setting>
-      <Setting id="start" type="bool">False</Setting>
-      <Setting id="bowserDoor" type="bool">False</Setting>
-      <Setting id="warp" type="bool">False</Setting>
-      <Setting id="princess" type="bool">False</Setting>
-      <Setting id="levelComplete" type="bool">False</Setting>
-      <Setting id="largeChest" type="bool">False</Setting>
-      <Setting id="smallChest" type="bool">False</Setting>
-    </CustomSettings>
-  </AutoSplitterSettings>
+  <AutoSplitterSettings />
 </Run>
