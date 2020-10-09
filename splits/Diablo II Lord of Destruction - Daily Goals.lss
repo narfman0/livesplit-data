@@ -16,6 +16,33 @@
   <AttemptHistory />
   <Segments>
     <Segment>
+      <Name>Amazon Story</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Amazon lvl 30</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pindle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>Ancient Tunnels</Name>
       <Icon />
       <SplitTimes>
@@ -26,15 +53,6 @@
     </Segment>
     <Segment>
       <Name>Mephisto</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Pindle</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
