@@ -173,12 +173,6 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.Server.dll</Path>
-      <Settings>
-        <Port>16834</Port>
-      </Settings>
-    </Component>
-    <Component>
       <Path>LiveSplit.WorldRecord.dll</Path>
       <Settings>
         <Version>1.6</Version>

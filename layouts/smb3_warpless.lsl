@@ -172,11 +172,5 @@
         </CustomSettings>
       </Settings>
     </Component>
-    <Component>
-      <Path>LiveSplit.Server.dll</Path>
-      <Settings>
-        <Port>16834</Port>
-      </Settings>
-    </Component>
   </Components>
 </Layout>
