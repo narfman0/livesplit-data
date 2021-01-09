@@ -12,35 +12,386 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>7</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="01/01/2021 01:48:26" isStartedSynced="True" ended="01/01/2021 03:49:11" isEndedSynced="True">
+      <RealTime>02:00:45.5780000</RealTime>
+    </Attempt>
+    <Attempt id="2" started="01/05/2021 02:03:07" isStartedSynced="True" ended="01/05/2021 03:41:17" isEndedSynced="True">
+      <RealTime>01:38:10.6540000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="01/08/2021 02:02:46" isStartedSynced="True" ended="01/08/2021 02:14:15" isEndedSynced="True" />
+    <Attempt id="4" started="01/08/2021 02:14:17" isStartedSynced="True" ended="01/08/2021 02:14:29" isEndedSynced="True" />
+    <Attempt id="5" started="01/08/2021 02:14:32" isStartedSynced="True" ended="01/08/2021 02:30:04" isEndedSynced="True" />
+    <Attempt id="6" started="01/08/2021 02:30:07" isStartedSynced="True" ended="01/08/2021 02:32:56" isEndedSynced="True" />
+    <Attempt id="7" started="01/08/2021 02:32:59" isStartedSynced="True" ended="01/08/2021 03:59:10" isEndedSynced="True" />
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Super Riff Bros. 3</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:22.5040000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:03:46.9390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:45.3000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:04:22.5040000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:05:06.8340000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:03:46.9390000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:04:08.8180000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:10.5050000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:50.7430000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:27.7770000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:09:48.0010000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:05:56.8050000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:05:50.7430000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:05:51.0250000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:19:46.8180000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:46.8820000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:14:53.6330000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:05:36.3130000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:03:46.8820000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:50.3130000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:08.8260000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:58.4710000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:09:03.4950000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:07:08.8260000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 8</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:35:23.1770000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:32.8640000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:23.3440000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:06:32.8640000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:10:34.2450000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Super Calm Bros. 3</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:35:38.1880000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:14.2150000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:17.2760000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:15.0110000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:14.2150000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:38:58.7430000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:20.5550000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:43.7340000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:03:20.5550000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:03:52.8080000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:42:59.4060000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:37.6500000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:37.6500000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:04:00.6630000</RealTime>
+        </Time>
+        <Time id="7" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:48:27.1830000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:13.5570000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:13.5570000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:05:27.7770000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:08:38.9820000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:58:39.9070000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:30.4010000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:08.1670000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:10:12.7240000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:07:30.4010000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:04:59.9430000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:20.0360000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:31.1750000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:06:20.0360000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:06:44.3770000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 8</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:11:13.1200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:13.1770000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:19.6110000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:06:13.1770000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:27:36.3150000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Kamikaze Bros. 3</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:11:30.0210000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:00:15.9180000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:15.9180000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:16.9010000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Level 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:20:26.9660000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:56.9450000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:11:29.2730000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:08:56.9450000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Fort 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:27:26.3560000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:59.3900000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:12:14.4820000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:06:59.3900000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>BC</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:38:10.6540000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:26.2100000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:26.2100000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:10:44.2980000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />
