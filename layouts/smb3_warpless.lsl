@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>438</X>
-  <Y>859</Y>
-  <VerticalWidth>281</VerticalWidth>
-  <VerticalHeight>411</VerticalHeight>
+  <X>519</X>
+  <Y>931</Y>
+  <VerticalWidth>294</VerticalWidth>
+  <VerticalHeight>412</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -106,14 +106,14 @@
             <Version>1.5</Version>
             <Name>+/-</Name>
             <Type>Delta</Type>
-            <Comparison>Personal Best</Comparison>
+            <Comparison>Balanced PB</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>PB</Name>
+            <Name>BalPB</Name>
             <Type>SplitTime</Type>
-            <Comparison>Personal Best</Comparison>
+            <Comparison>Balanced PB</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
@@ -166,10 +166,24 @@
           <Setting id="bowserDoor" type="bool">True</Setting>
           <Setting id="warp" type="bool">False</Setting>
           <Setting id="princess" type="bool">True</Setting>
-          <Setting id="levelComplete" type="bool">False</Setting>
           <Setting id="largeChest" type="bool">False</Setting>
           <Setting id="smallChest" type="bool">False</Setting>
+          <Setting id="fanFare" type="bool">False</Setting>
         </CustomSettings>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.VideoAutoSplit.dll</Path>
+      <Settings>
+        <Version>0.5.2.2</Version>
+        <ProfilePath>D:\workspace\autosplitters\smb3.vas</ProfilePath>
+        <VideoDevice>OBS-Camera (@device:sw:{860BB310-5D01-11D0-BD3B-00A0C911CE86}\{27B05C2D-93DC-474A-A5DA-9BBA34CB2A9C})</VideoDevice>
+        <GameVersion>
+        </GameVersion>
+        <CropGeometry>1440x1080+0+0</CropGeometry>
+        <Start>True</Start>
+        <Reset>True</Reset>
+        <CustomSettings />
       </Settings>
     </Component>
   </Components>
