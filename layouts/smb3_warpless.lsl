@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>519</X>
-  <Y>931</Y>
+  <X>1068</X>
+  <Y>479</Y>
   <VerticalWidth>294</VerticalWidth>
   <VerticalHeight>412</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -180,8 +180,9 @@
         <VideoDevice>OBS-Camera (@device:sw:{860BB310-5D01-11D0-BD3B-00A0C911CE86}\{27B05C2D-93DC-474A-A5DA-9BBA34CB2A9C})</VideoDevice>
         <GameVersion>
         </GameVersion>
-        <CropGeometry>1440x1080+0+0</CropGeometry>
+        <CropGeometry>256x224+0+0</CropGeometry>
         <Start>True</Start>
+        <Split>True</Split>
         <Reset>True</Reset>
         <CustomSettings />
       </Settings>
