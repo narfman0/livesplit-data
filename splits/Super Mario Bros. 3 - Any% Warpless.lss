@@ -1047,6 +1047,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:03:32.3710000</RealTime>
         </SplitTime>
+        <SplitTime name="Target">
+          <RealTime>00:03:32</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:03:30.8000000</RealTime>
@@ -2067,6 +2070,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:08:27.1030000</RealTime>
         </SplitTime>
+        <SplitTime name="Target">
+          <RealTime>00:09:27</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:04:54.7320000</RealTime>
@@ -2838,6 +2844,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:14:38.1930000</RealTime>
         </SplitTime>
+        <SplitTime name="Target">
+          <RealTime>00:15:31</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:05:43.1100000</RealTime>
@@ -3431,6 +3440,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:21:24.1140000</RealTime>
         </SplitTime>
+        <SplitTime name="Target">
+          <RealTime>00:21:49</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:14.1420000</RealTime>
@@ -3957,6 +3969,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:28:56.1110000</RealTime>
         </SplitTime>
+        <SplitTime name="Target">
+          <RealTime>00:28:49</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:28.0500000</RealTime>
@@ -4441,6 +4456,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:35:34.2830000</RealTime>
         </SplitTime>
+        <SplitTime name="Target">
+          <RealTime>00:35:28</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:28.9810000</RealTime>
@@ -4863,6 +4881,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:42:19.0920000</RealTime>
         </SplitTime>
+        <SplitTime name="Target">
+          <RealTime>00:42:24</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:44.8090000</RealTime>
@@ -5228,6 +5249,9 @@
         <SplitTime name="Personal Best">
           <RealTime>00:52:07.3030000</RealTime>
         </SplitTime>
+        <SplitTime name="Target">
+          <RealTime>00:52:07</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:09:27.8000000</RealTime>
@@ -5541,20 +5565,5 @@
       </SegmentHistory>
     </Segment>
   </Segments>
-  <AutoSplitterSettings>
-    <Version>1.5</Version>
-    <ScriptPath>D:\dl\livesplit\Components\smb3.asl</ScriptPath>
-    <Start>True</Start>
-    <Split>True</Split>
-    <CustomSettings>
-      <Setting id="worlds" type="bool">True</Setting>
-      <Setting id="start" type="bool">False</Setting>
-      <Setting id="bowserDoor" type="bool">False</Setting>
-      <Setting id="warp" type="bool">False</Setting>
-      <Setting id="princess" type="bool">False</Setting>
-      <Setting id="largeChest" type="bool">False</Setting>
-      <Setting id="smallChest" type="bool">False</Setting>
-      <Setting id="fanFare" type="bool">False</Setting>
-    </CustomSettings>
-  </AutoSplitterSettings>
+  <AutoSplitterSettings />
 </Run>
