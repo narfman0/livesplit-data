@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1068</X>
-  <Y>479</Y>
+  <X>361</X>
+  <Y>753</Y>
   <VerticalWidth>294</VerticalWidth>
   <VerticalHeight>412</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -106,14 +106,14 @@
             <Version>1.5</Version>
             <Name>+/-</Name>
             <Type>Delta</Type>
-            <Comparison>Balanced PB</Comparison>
+            <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>BalPB</Name>
+            <Name>PB</Name>
             <Type>SplitTime</Type>
-            <Comparison>Balanced PB</Comparison>
+            <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
