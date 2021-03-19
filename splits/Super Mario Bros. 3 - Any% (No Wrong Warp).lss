@@ -10,7 +10,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>502</AttemptCount>
+  <AttemptCount>505</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="08/23/2017 20:20:10" isStartedSynced="True" ended="08/23/2017 20:20:27" isEndedSynced="True" />
     <Attempt id="2" started="08/23/2017 20:20:30" isStartedSynced="True" ended="08/23/2017 20:20:40" isEndedSynced="True" />
@@ -539,6 +539,12 @@
     <Attempt id="501" started="01/22/2021 04:21:50" isStartedSynced="True" ended="01/22/2021 04:33:09" isEndedSynced="True">
       <RealTime>00:11:19.3850000</RealTime>
     </Attempt>
+    <Attempt id="502" started="03/19/2021 02:21:01" isStartedSynced="True" ended="03/19/2021 02:21:02" isEndedSynced="True" />
+    <Attempt id="503" started="03/19/2021 02:21:03" isStartedSynced="True" ended="03/19/2021 02:21:17" isEndedSynced="True" />
+    <Attempt id="504" started="03/19/2021 02:21:20" isStartedSynced="True" ended="03/19/2021 02:33:08" isEndedSynced="True">
+      <RealTime>00:11:48.2530000</RealTime>
+      <GameTime>00:11:48.2530000</GameTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -551,6 +557,7 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:55.1730000</RealTime>
+        <GameTime>00:01:59.5600000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="461">
@@ -604,6 +611,10 @@
         <Time id="501">
           <RealTime>00:01:55.1730000</RealTime>
         </Time>
+        <Time id="504">
+          <RealTime>00:01:59.5600000</RealTime>
+          <GameTime>00:01:59.5600000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -648,6 +659,7 @@
         <Time id="501">
           <RealTime>00:04:57.0090000</RealTime>
         </Time>
+        <Time id="504" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -689,6 +701,7 @@
         <Time id="501">
           <RealTime>00:01:53.4500000</RealTime>
         </Time>
+        <Time id="504" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -701,6 +714,7 @@
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:02:33.7530000</RealTime>
+        <GameTime>00:09:48.6930000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="466">
@@ -724,23 +738,12 @@
         <Time id="501">
           <RealTime>00:02:33.7530000</RealTime>
         </Time>
+        <Time id="504">
+          <RealTime>00:09:48.6930000</RealTime>
+          <GameTime>00:09:48.6930000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
   </Segments>
-  <AutoSplitterSettings>
-    <Version>1.5</Version>
-    <ScriptPath>D:\dl\livesplit\Components\smb3.asl</ScriptPath>
-    <Start>True</Start>
-    <Split>True</Split>
-    <CustomSettings>
-      <Setting id="worlds" type="bool">True</Setting>
-      <Setting id="start" type="bool">False</Setting>
-      <Setting id="bowserDoor" type="bool">False</Setting>
-      <Setting id="warp" type="bool">False</Setting>
-      <Setting id="princess" type="bool">False</Setting>
-      <Setting id="largeChest" type="bool">False</Setting>
-      <Setting id="smallChest" type="bool">False</Setting>
-      <Setting id="fanFare" type="bool">False</Setting>
-    </CustomSettings>
-  </AutoSplitterSettings>
+  <AutoSplitterSettings />
 </Run>
