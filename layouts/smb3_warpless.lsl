@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>376</X>
-  <Y>681</Y>
+  <X>356</X>
+  <Y>662</Y>
   <VerticalWidth>294</VerticalWidth>
   <VerticalHeight>412</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -111,7 +111,7 @@
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>ST</Name>
+            <Name>SplitTime</Name>
             <Type>SplitTime</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
