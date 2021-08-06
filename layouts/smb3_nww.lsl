@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>356</X>
-  <Y>662</Y>
+  <X>183</X>
+  <Y>618</Y>
   <VerticalWidth>294</VerticalWidth>
-  <VerticalHeight>340</VerticalHeight>
+  <VerticalHeight>316</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -170,39 +170,6 @@
           <Setting id="smallChest" type="bool">False</Setting>
           <Setting id="fanFare" type="bool">False</Setting>
         </CustomSettings>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.VideoAutoSplit.dll</Path>
-      <Settings>
-        <Version>0.5.2.2</Version>
-        <ProfilePath>D:\workspace\autosplitters\smb3.vas</ProfilePath>
-        <VideoDevice>OBS-Camera (@device:sw:{860BB310-5D01-11D0-BD3B-00A0C911CE86}\{27B05C2D-93DC-474A-A5DA-9BBA34CB2A9C})</VideoDevice>
-        <GameVersion>
-        </GameVersion>
-        <CropGeometry>256x224+0+0</CropGeometry>
-        <Start>True</Start>
-        <Split>True</Split>
-        <Reset>True</Reset>
-        <CustomSettings />
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.WorldRecord.dll</Path>
-      <Settings>
-        <Version>1.6</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Display2Rows>False</Display2Rows>
-        <CenteredText>True</CenteredText>
-        <FilterRegion>False</FilterRegion>
-        <FilterPlatform>False</FilterPlatform>
-        <FilterVariables>False</FilterVariables>
       </Settings>
     </Component>
     <Component>

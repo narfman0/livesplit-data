@@ -153,39 +153,5 @@
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
-    <Component>
-      <Path>LiveSplit.ScriptableAutoSplit.dll</Path>
-      <Settings>
-        <Version>1.5</Version>
-        <ScriptPath>D:\workspace\autosplitters\smb3.asl</ScriptPath>
-        <Start>True</Start>
-        <Split>True</Split>
-        <CustomSettings>
-          <Setting id="worlds" type="bool">True</Setting>
-          <Setting id="start" type="bool">True</Setting>
-          <Setting id="bowserDoor" type="bool">True</Setting>
-          <Setting id="warp" type="bool">False</Setting>
-          <Setting id="princess" type="bool">True</Setting>
-          <Setting id="largeChest" type="bool">False</Setting>
-          <Setting id="smallChest" type="bool">False</Setting>
-          <Setting id="fanFare" type="bool">False</Setting>
-        </CustomSettings>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.VideoAutoSplit.dll</Path>
-      <Settings>
-        <Version>0.5.2.2</Version>
-        <ProfilePath>D:\workspace\autosplitters\smb3.vas</ProfilePath>
-        <VideoDevice>OBS-Camera (@device:sw:{860BB310-5D01-11D0-BD3B-00A0C911CE86}\{27B05C2D-93DC-474A-A5DA-9BBA34CB2A9C})</VideoDevice>
-        <GameVersion>
-        </GameVersion>
-        <CropGeometry>256x224+0+0</CropGeometry>
-        <Start>True</Start>
-        <Split>True</Split>
-        <Reset>True</Reset>
-        <CustomSettings />
-      </Settings>
-    </Component>
   </Components>
 </Layout>
