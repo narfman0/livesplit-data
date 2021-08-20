@@ -161,7 +161,7 @@
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
+        <Accuracy>Tenths</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
