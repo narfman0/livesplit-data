@@ -10,7 +10,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>758</AttemptCount>
+  <AttemptCount>760</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="08/23/2017 20:20:10" isStartedSynced="True" ended="08/23/2017 20:20:27" isEndedSynced="True" />
     <Attempt id="2" started="08/23/2017 20:20:30" isStartedSynced="True" ended="08/23/2017 20:20:40" isEndedSynced="True" />
@@ -808,6 +808,8 @@
     <Attempt id="755" started="09/11/2021 18:30:04" isStartedSynced="True" ended="09/11/2021 18:30:09" isEndedSynced="True" />
     <Attempt id="756" started="09/11/2021 18:30:12" isStartedSynced="True" ended="09/11/2021 18:31:21" isEndedSynced="True" />
     <Attempt id="757" started="09/11/2021 18:31:24" isStartedSynced="True" ended="09/11/2021 18:37:06" isEndedSynced="True" />
+    <Attempt id="758" started="09/13/2021 02:42:07" isStartedSynced="True" ended="09/13/2021 02:42:10" isEndedSynced="True" />
+    <Attempt id="759" started="09/13/2021 02:42:14" isStartedSynced="True" ended="09/13/2021 02:49:51" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -819,7 +821,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:53.1080000</RealTime>
+        <RealTime>00:01:52.8970000</RealTime>
         <GameTime>00:01:54.0620000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -963,6 +965,9 @@
         </Time>
         <Time id="757">
           <RealTime>00:01:53.1080000</RealTime>
+        </Time>
+        <Time id="759">
+          <RealTime>00:01:52.8970000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
