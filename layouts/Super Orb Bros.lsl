@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>358</X>
-  <Y>548</Y>
+  <X>312</X>
+  <Y>530</Y>
   <VerticalWidth>281</VerticalWidth>
   <VerticalHeight>459</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -173,6 +173,22 @@
       </Settings>
     </Component>
     <Component>
+      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Comparison>Best Segments</Comparison>
+        <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
       <Path>LiveSplit.WorldRecord.dll</Path>
       <Settings>
         <Version>1.6</Version>
@@ -188,22 +204,6 @@
         <FilterRegion>False</FilterRegion>
         <FilterPlatform>False</FilterPlatform>
         <FilterVariables>False</FilterVariables>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Best Segments</Comparison>
-        <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
   </Components>
