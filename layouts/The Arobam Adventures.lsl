@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>103</X>
-  <Y>557</Y>
+  <X>171</X>
+  <Y>586</Y>
   <VerticalWidth>281</VerticalWidth>
   <VerticalHeight>399</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -106,14 +106,14 @@
             <Version>1.5</Version>
             <Name>+/-</Name>
             <Type>Delta</Type>
-            <Comparison>Personal Best</Comparison>
+            <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
             <Name>PB</Name>
             <Type>SplitTime</Type>
-            <Comparison>Personal Best</Comparison>
+            <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
