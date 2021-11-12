@@ -61,9 +61,13 @@
       <Name>8-1</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:14</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:00:45.4720000</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="3" />
         <Time id="17" />
@@ -78,7 +82,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:20.1830000</RealTime>
+        <RealTime>00:00:34.7110000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
