@@ -3,6 +3,7 @@
   <GameIcon />
   <GameName>Super Mario Bros. 3</GameName>
   <CategoryName>Any% Warpless</CategoryName>
+  <LayoutPath>D:\workspace\livesplit-data\layouts\smb3_warpless.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">Nintendo Entertainment System</Platform>
@@ -10,7 +11,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>1684</AttemptCount>
+  <AttemptCount>1685</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="09/02/2017 02:33:22" isStartedSynced="True" ended="09/02/2017 03:04:06" isEndedSynced="True" />
     <Attempt id="2" started="09/03/2017 01:35:13" isStartedSynced="True" ended="09/03/2017 01:36:24" isEndedSynced="True" />
@@ -2055,6 +2056,9 @@
     <Attempt id="1674" started="09/11/2021 19:03:34" isStartedSynced="True" ended="09/11/2021 19:04:14" isEndedSynced="True" />
     <Attempt id="1675" started="09/11/2021 19:04:14" isStartedSynced="True" ended="09/11/2021 19:57:48" isEndedSynced="True">
       <RealTime>00:53:33.4890000</RealTime>
+    </Attempt>
+    <Attempt id="1676" started="12/10/2021 03:27:46" isStartedSynced="True" ended="12/10/2021 04:23:33" isEndedSynced="True">
+      <RealTime>00:55:47.2080000</RealTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -4735,6 +4739,9 @@
         <Time id="1675">
           <RealTime>00:03:35.9110000</RealTime>
         </Time>
+        <Time id="1676">
+          <RealTime>00:03:36.1640000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -6532,6 +6539,9 @@
         <Time id="1675">
           <RealTime>00:05:55.4070000</RealTime>
         </Time>
+        <Time id="1676">
+          <RealTime>00:06:08.1820000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -7834,6 +7844,9 @@
         <Time id="1675">
           <RealTime>00:06:05.5500000</RealTime>
         </Time>
+        <Time id="1676">
+          <RealTime>00:06:41.0940000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -8933,6 +8946,9 @@
         <Time id="1675">
           <RealTime>00:06:11.7320000</RealTime>
         </Time>
+        <Time id="1676">
+          <RealTime>00:06:24.4990000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -9895,6 +9911,9 @@
         <Time id="1675">
           <RealTime>00:07:09.3970000</RealTime>
         </Time>
+        <Time id="1676">
+          <RealTime>00:07:03.7780000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -10703,6 +10722,9 @@
         <Time id="1675">
           <RealTime>00:06:56.6230000</RealTime>
         </Time>
+        <Time id="1676">
+          <RealTime>00:07:05.6890000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -11343,6 +11365,9 @@
         <Time id="1675">
           <RealTime>00:07:04.8190000</RealTime>
         </Time>
+        <Time id="1676">
+          <RealTime>00:08:51.9100000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -11864,6 +11889,9 @@
         </Time>
         <Time id="1675">
           <RealTime>00:10:34.0500000</RealTime>
+        </Time>
+        <Time id="1676">
+          <RealTime>00:09:55.8920000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
