@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>408</X>
-  <Y>521</Y>
+  <X>3107</X>
+  <Y>969</Y>
   <VerticalWidth>281</VerticalWidth>
   <VerticalHeight>399</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -169,6 +169,7 @@
           <Setting id="largeChest" type="bool">False</Setting>
           <Setting id="smallChest" type="bool">False</Setting>
           <Setting id="fanFare" type="bool">False</Setting>
+          <Setting id="whistleWorld1" type="bool">False</Setting>
         </CustomSettings>
       </Settings>
     </Component>
@@ -204,6 +205,7 @@
         <FilterRegion>False</FilterRegion>
         <FilterPlatform>False</FilterPlatform>
         <FilterVariables>False</FilterVariables>
+        <FilterSubcategories>True</FilterSubcategories>
       </Settings>
     </Component>
   </Components>
