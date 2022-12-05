@@ -118,8 +118,8 @@
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>SegΔ</Name>
-            <Type>SegmentDelta</Type>
+            <Name>SΔ|ST</Name>
+            <Type>SegmentDeltaorSegmentTime</Type>
             <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
