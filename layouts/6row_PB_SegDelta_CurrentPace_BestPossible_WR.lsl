@@ -116,6 +116,13 @@
             <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>SegΔ</Name>
+            <Type>SegmentDelta</Type>
+            <Comparison>Best Segments</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
         </Columns>
       </Settings>
     </Component>
