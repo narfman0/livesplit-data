@@ -11,7 +11,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>4935</AttemptCount>
+  <AttemptCount>4939</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="09/02/2017 02:33:22" isStartedSynced="True" ended="09/02/2017 03:04:06" isEndedSynced="True" />
     <Attempt id="2" started="09/03/2017 01:35:13" isStartedSynced="True" ended="09/03/2017 01:36:24" isEndedSynced="True" />
@@ -5458,6 +5458,10 @@
     <Attempt id="4922" started="02/10/2023 14:56:03" isStartedSynced="True" ended="02/10/2023 15:01:15" isEndedSynced="True" />
     <Attempt id="4923" started="02/10/2023 15:01:45" isStartedSynced="True" ended="02/10/2023 15:07:46" isEndedSynced="True" />
     <Attempt id="4924" started="02/10/2023 15:08:16" isStartedSynced="True" ended="02/10/2023 15:44:29" isEndedSynced="True" />
+    <Attempt id="4925" started="02/10/2023 15:51:35" isStartedSynced="True" ended="02/10/2023 15:55:03" isEndedSynced="True" />
+    <Attempt id="4926" started="02/10/2023 15:55:34" isStartedSynced="True" ended="02/10/2023 16:01:34" isEndedSynced="True" />
+    <Attempt id="4927" started="02/10/2023 16:02:04" isStartedSynced="True" ended="02/10/2023 16:07:29" isEndedSynced="True" />
+    <Attempt id="4928" started="02/10/2023 16:07:59" isStartedSynced="True" ended="02/10/2023 16:17:07" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -5469,9 +5473,6 @@
         </SplitTime>
         <SplitTime name="WR">
           <RealTime>00:03:36.3900000</RealTime>
-        </SplitTime>
-        <SplitTime name="Target">
-          <RealTime>00:03:31.5000000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -12790,6 +12791,15 @@
         <Time id="4924">
           <RealTime>00:03:31.1980455</RealTime>
         </Time>
+        <Time id="4926">
+          <RealTime>00:03:31.5465742</RealTime>
+        </Time>
+        <Time id="4927">
+          <RealTime>00:03:31.0406584</RealTime>
+        </Time>
+        <Time id="4928">
+          <RealTime>00:03:31.7334540</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -12801,9 +12811,6 @@
         </SplitTime>
         <SplitTime name="WR">
           <RealTime>00:08:33.4900000</RealTime>
-        </SplitTime>
-        <SplitTime name="Target">
-          <RealTime>00:08:18</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -15897,9 +15904,6 @@
         <SplitTime name="WR">
           <RealTime>00:14:36.2700000</RealTime>
         </SplitTime>
-        <SplitTime name="Target">
-          <RealTime>00:14:21</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:05:42.6540000</RealTime>
@@ -18110,9 +18114,6 @@
         <SplitTime name="WR">
           <RealTime>00:21:18.9300000</RealTime>
         </SplitTime>
-        <SplitTime name="Target">
-          <RealTime>00:21:04</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:06.9370000</RealTime>
@@ -19954,9 +19955,6 @@
         <SplitTime name="WR">
           <RealTime>00:27:54.5300000</RealTime>
         </SplitTime>
-        <SplitTime name="Target">
-          <RealTime>00:27:51.5000000</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:36.8650000</RealTime>
@@ -21573,9 +21571,6 @@
         <SplitTime name="WR">
           <RealTime>00:34:19.8700000</RealTime>
         </SplitTime>
-        <SplitTime name="Target">
-          <RealTime>00:34:16</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:20.0230000</RealTime>
@@ -22888,9 +22883,6 @@
         <SplitTime name="WR">
           <RealTime>00:41:00.8400000</RealTime>
         </SplitTime>
-        <SplitTime name="Target">
-          <RealTime>00:41:23</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:06:03.4280000</RealTime>
@@ -23838,9 +23830,6 @@
         </SplitTime>
         <SplitTime name="WR">
           <RealTime>00:50:10.3800000</RealTime>
-        </SplitTime>
-        <SplitTime name="Target">
-          <RealTime>00:49:59</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>

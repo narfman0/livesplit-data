@@ -4,7 +4,7 @@
   <X>3114</X>
   <Y>941</Y>
   <VerticalWidth>294</VerticalWidth>
-  <VerticalHeight>435</VerticalHeight>
+  <VerticalHeight>373</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -111,15 +111,15 @@
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>SplitTime</Name>
+            <Name>PB</Name>
             <Type>SplitTime</Type>
-            <Comparison>Current Comparison</Comparison>
+            <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
             <Name>WR</Name>
-            <Type>SplitTime</Type>
+            <Type>DeltaorSplitTime</Type>
             <Comparison>WR</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
