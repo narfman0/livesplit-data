@@ -116,6 +116,13 @@
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>WR</Name>
+            <Type>SplitTime</Type>
+            <Comparison>WR</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
         </Columns>
       </Settings>
     </Component>
