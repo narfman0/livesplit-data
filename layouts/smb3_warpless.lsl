@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>3114</X>
+  <X>3089</X>
   <Y>941</Y>
-  <VerticalWidth>294</VerticalWidth>
-  <VerticalHeight>373</VerticalHeight>
+  <VerticalWidth>328</VerticalWidth>
+  <VerticalHeight>434</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -111,7 +111,7 @@
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>PB</Name>
+            <Name>ST/PB</Name>
             <Type>SplitTime</Type>
             <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
