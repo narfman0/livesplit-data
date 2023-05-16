@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>3089</X>
-  <Y>941</Y>
+  <X>2642</X>
+  <Y>950</Y>
   <VerticalWidth>328</VerticalWidth>
   <VerticalHeight>411</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -163,7 +163,7 @@
     <Component>
       <Path>LiveSplit.TheRun.dll</Path>
       <Settings>
-        <Version>1.0.1</Version>
+        <Version>1.0.0</Version>
         <Path>1a91fc2d-0806-4407-a8c1-d091d6daf8e7</Path>
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
