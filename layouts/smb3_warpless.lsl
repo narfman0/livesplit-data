@@ -103,7 +103,7 @@
         <IndentBlankIcons>True</IndentBlankIcons>
         <IndentSubsplits>True</IndentSubsplits>
         <HideSubsplits>False</HideSubsplits>
-        <ShowSubsplits>True</ShowSubsplits>
+        <ShowSubsplits>False</ShowSubsplits>
         <CurrentSectionOnly>False</CurrentSectionOnly>
         <OverrideSubsplitColor>False</OverrideSubsplitColor>
         <SubsplitGradient>Plain</SubsplitGradient>
