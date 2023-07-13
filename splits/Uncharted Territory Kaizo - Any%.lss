@@ -13,12 +13,8 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>1</AttemptCount>
-  <AttemptHistory>
-    <Attempt id="1" started="07/11/2023 02:41:55" isStartedSynced="True" ended="07/11/2023 04:15:46" isEndedSynced="True">
-      <PauseTime>00:01:01.1893540</PauseTime>
-    </Attempt>
-  </AttemptHistory>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
   <Segments>
     <Segment>
       <Name>1</Name>
@@ -29,11 +25,7 @@
       <BestSegmentTime>
         <RealTime>00:13:40.8549697</RealTime>
       </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="1">
-          <RealTime>00:13:40.8549697</RealTime>
-        </Time>
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>2</Name>
@@ -44,11 +36,7 @@
       <BestSegmentTime>
         <RealTime>00:14:44.8774690</RealTime>
       </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="1">
-          <RealTime>00:14:44.8774690</RealTime>
-        </Time>
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>3</Name>
@@ -59,11 +47,7 @@
       <BestSegmentTime>
         <RealTime>00:32:51.2559070</RealTime>
       </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="1">
-          <RealTime>00:32:51.2559070</RealTime>
-        </Time>
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>Fort1</Name>
@@ -72,7 +56,7 @@
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>01:00:00</RealTime>
+        <RealTime>00:13:12</RealTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
@@ -83,7 +67,7 @@
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>01:00:00</RealTime>
+        <RealTime>00:11:00</RealTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
@@ -160,7 +144,7 @@
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>01:00:00</RealTime>
+        <RealTime>00:42:00</RealTime>
       </BestSegmentTime>
       <SegmentHistory />
     </Segment>
