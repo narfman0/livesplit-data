@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>2642</X>
-  <Y>950</Y>
+  <X>2677</X>
+  <Y>973</Y>
   <VerticalWidth>328</VerticalWidth>
-  <VerticalHeight>411</VerticalHeight>
+  <VerticalHeight>410</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -131,16 +131,16 @@
         <Columns>
           <Settings>
             <Version>1.5</Version>
-            <Name>+/-</Name>
+            <Name>±</Name>
             <Type>Delta</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>ST/PB</Name>
+            <Name>⌛</Name>
             <Type>SplitTime</Type>
-            <Comparison>Personal Best</Comparison>
+            <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
