@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>2677</X>
-  <Y>973</Y>
+  <X>2999</X>
+  <Y>842</Y>
   <VerticalWidth>328</VerticalWidth>
-  <VerticalHeight>410</VerticalHeight>
+  <VerticalHeight>411</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -66,6 +66,7 @@
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
+        <AutomaticAbbreviation>False</AutomaticAbbreviation>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>8</VisualSplitCount>
@@ -103,7 +104,7 @@
         <IndentBlankIcons>True</IndentBlankIcons>
         <IndentSubsplits>True</IndentSubsplits>
         <HideSubsplits>False</HideSubsplits>
-        <ShowSubsplits>False</ShowSubsplits>
+        <ShowSubsplits>True</ShowSubsplits>
         <CurrentSectionOnly>False</CurrentSectionOnly>
         <OverrideSubsplitColor>False</OverrideSubsplitColor>
         <SubsplitGradient>Plain</SubsplitGradient>
@@ -141,13 +142,6 @@
             <Name>⌛</Name>
             <Type>SplitTime</Type>
             <Comparison>Current Comparison</Comparison>
-            <TimingMethod>Current Timing Method</TimingMethod>
-          </Settings>
-          <Settings>
-            <Version>1.5</Version>
-            <Name>WR</Name>
-            <Type>DeltaorSplitTime</Type>
-            <Comparison>WR</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
