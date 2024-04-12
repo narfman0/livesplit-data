@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>2999</X>
-  <Y>842</Y>
+  <X>2986</X>
+  <Y>961</Y>
   <VerticalWidth>328</VerticalWidth>
   <VerticalHeight>411</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -94,7 +94,7 @@
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Alternating</BackgroundGradient>
         <SeparatorLastSplit>True</SeparatorLastSplit>
-        <DeltasAccuracy>Hundredths</DeltasAccuracy>
+        <DeltasAccuracy>Tenths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
@@ -104,7 +104,7 @@
         <IndentBlankIcons>True</IndentBlankIcons>
         <IndentSubsplits>True</IndentSubsplits>
         <HideSubsplits>False</HideSubsplits>
-        <ShowSubsplits>True</ShowSubsplits>
+        <ShowSubsplits>False</ShowSubsplits>
         <CurrentSectionOnly>False</CurrentSectionOnly>
         <OverrideSubsplitColor>False</OverrideSubsplitColor>
         <SubsplitGradient>Plain</SubsplitGradient>
@@ -173,7 +173,7 @@
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
+        <Accuracy>Tenths</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
