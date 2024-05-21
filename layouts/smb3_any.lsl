@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>202</X>
-  <Y>599</Y>
-  <VerticalWidth>294</VerticalWidth>
-  <VerticalHeight>283</VerticalHeight>
+  <X>3107</X>
+  <Y>892</Y>
+  <VerticalWidth>281</VerticalWidth>
+  <VerticalHeight>474</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -63,19 +63,20 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.Splits.dll</Path>
+      <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
-        <Version>1.6</Version>
+        <Version>1.7</Version>
+        <AutomaticAbbreviation>False</AutomaticAbbreviation>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>2</VisualSplitCount>
-        <SplitPreviewCount>0</SplitPreviewCount>
+        <VisualSplitCount>8</VisualSplitCount>
+        <SplitPreviewCount>1</SplitPreviewCount>
+        <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
-        <ShowThinSeparators>True</ShowThinSeparators>
+        <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
-        <SplitTimesAccuracy>Tenths</SplitTimesAccuracy>
-        <AutomaticAbbreviations>False</AutomaticAbbreviations>
+        <SplitTimesAccuracy>Hundredths</SplitTimesAccuracy>
         <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
         <AfterNamesColor>FFFFFFFF</AfterNamesColor>
@@ -84,34 +85,68 @@
         <CurrentTimesColor>FFFFFFFF</CurrentTimesColor>
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
         <OverrideTimesColor>False</OverrideTimesColor>
-        <ShowBlankSplits>True</ShowBlankSplits>
         <LockLastSplit>True</LockLastSplit>
         <IconSize>24</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>3.6</SplitHeight>
+        <SplitHeight>6</SplitHeight>
         <CurrentSplitGradient>Vertical</CurrentSplitGradient>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Alternating</BackgroundGradient>
         <SeparatorLastSplit>True</SeparatorLastSplit>
-        <DeltasAccuracy>Hundredths</DeltasAccuracy>
+        <DeltasAccuracy>Tenths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
+        <HeaderComparison>Current Comparison</HeaderComparison>
+        <HeaderTimingMethod>Current Timing Method</HeaderTimingMethod>
         <Display2Rows>False</Display2Rows>
+        <IndentBlankIcons>True</IndentBlankIcons>
+        <IndentSubsplits>True</IndentSubsplits>
+        <HideSubsplits>False</HideSubsplits>
+        <ShowSubsplits>True</ShowSubsplits>
+        <CurrentSectionOnly>False</CurrentSectionOnly>
+        <OverrideSubsplitColor>False</OverrideSubsplitColor>
+        <SubsplitGradient>Plain</SubsplitGradient>
+        <ShowHeader>True</ShowHeader>
+        <IndentSectionSplit>True</IndentSectionSplit>
+        <ShowIconSectionSplit>True</ShowIconSectionSplit>
+        <ShowSectionIcon>True</ShowSectionIcon>
+        <HeaderGradient>Vertical</HeaderGradient>
+        <OverrideHeaderColor>False</OverrideHeaderColor>
+        <HeaderText>True</HeaderText>
+        <HeaderTimes>True</HeaderTimes>
+        <HeaderAccuracy>Tenths</HeaderAccuracy>
+        <SectionTimer>True</SectionTimer>
+        <SectionTimerGradient>True</SectionTimerGradient>
+        <SectionTimerAccuracy>Tenths</SectionTimerAccuracy>
+        <SubsplitTopColor>8D000000</SubsplitTopColor>
+        <SubsplitBottomColor>00FFFFFF</SubsplitBottomColor>
+        <HeaderTopColor>2BFFFFFF</HeaderTopColor>
+        <HeaderBottomColor>D8000000</HeaderBottomColor>
+        <HeaderTextColor>FFFFFFFF</HeaderTextColor>
+        <HeaderTimesColor>FFFFFFFF</HeaderTimesColor>
+        <SectionTimerColor>FF777777</SectionTimerColor>
         <ShowColumnLabels>True</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
             <Version>1.5</Version>
-            <Name>+/-</Name>
+            <Name>Δ</Name>
+            <Type>SegmentDelta</Type>
+            <Comparison>Best Segments</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>±</Name>
             <Type>Delta</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>SplitTime</Name>
+            <Name>⧖</Name>
             <Type>SplitTime</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
@@ -145,12 +180,32 @@
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Tenths</Accuracy>
+        <Accuracy>Hundredths</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <Comparison>Current Comparison</Comparison>
         <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.ScriptableAutoSplit.dll</Path>
+      <Settings>
+        <Version>1.5</Version>
+        <ScriptPath>D:\workspace\autosplitters\smb3.asl</ScriptPath>
+        <Start>True</Start>
+        <Split>True</Split>
+        <CustomSettings>
+          <Setting id="worlds" type="bool">True</Setting>
+          <Setting id="start" type="bool">True</Setting>
+          <Setting id="bowserDoor" type="bool">True</Setting>
+          <Setting id="warp" type="bool">False</Setting>
+          <Setting id="princess" type="bool">True</Setting>
+          <Setting id="largeChest" type="bool">False</Setting>
+          <Setting id="smallChest" type="bool">False</Setting>
+          <Setting id="fanFare" type="bool">False</Setting>
+          <Setting id="whistleWorld1" type="bool">False</Setting>
+        </CustomSettings>
       </Settings>
     </Component>
     <Component>
@@ -161,7 +216,7 @@
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Tenths</Accuracy>
+        <Accuracy>Hundredths</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
@@ -185,6 +240,8 @@
         <FilterRegion>False</FilterRegion>
         <FilterPlatform>False</FilterPlatform>
         <FilterVariables>False</FilterVariables>
+        <FilterSubcategories>True</FilterSubcategories>
+        <TimingMethod>Default for Leaderboard</TimingMethod>
       </Settings>
     </Component>
   </Components>
