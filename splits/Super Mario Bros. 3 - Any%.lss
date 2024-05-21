@@ -3,7 +3,7 @@
   <GameIcon />
   <GameName>Super Mario Bros. 3</GameName>
   <CategoryName>Any%</CategoryName>
-  <LayoutPath>D:\workspace\livesplit-data\layouts\6row_Pace_BestPossible_WR.lsl</LayoutPath>
+  <LayoutPath>D:\workspace\livesplit-data\layouts\smb3_any.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -13,7 +13,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>2060</AttemptCount>
+  <AttemptCount>2110</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="11/05/2017 20:47:48" isStartedSynced="True" ended="11/05/2017 20:51:15" isEndedSynced="True" />
     <Attempt id="2" started="11/06/2017 03:24:41" isStartedSynced="True" ended="11/06/2017 03:24:53" isEndedSynced="True" />
@@ -2114,6 +2114,64 @@
     <Attempt id="1971" started="05/21/2024 03:41:55" isStartedSynced="True" ended="05/21/2024 03:45:08" isEndedSynced="True">
       <RealTime>00:03:12.8808024</RealTime>
     </Attempt>
+    <Attempt id="1972" started="05/21/2024 14:36:12" isStartedSynced="True" ended="05/21/2024 14:39:29" isEndedSynced="True" />
+    <Attempt id="1973" started="05/21/2024 14:40:33" isStartedSynced="True" ended="05/21/2024 14:41:08" isEndedSynced="True" />
+    <Attempt id="1974" started="05/21/2024 14:41:10" isStartedSynced="True" ended="05/21/2024 14:41:45" isEndedSynced="True" />
+    <Attempt id="1975" started="05/21/2024 14:41:47" isStartedSynced="True" ended="05/21/2024 14:42:38" isEndedSynced="True" />
+    <Attempt id="1976" started="05/21/2024 14:42:42" isStartedSynced="True" ended="05/21/2024 14:45:20" isEndedSynced="True" />
+    <Attempt id="1977" started="05/21/2024 14:47:14" isStartedSynced="True" ended="05/21/2024 14:50:32" isEndedSynced="True">
+      <RealTime>00:03:18.2391150</RealTime>
+    </Attempt>
+    <Attempt id="1978" started="05/21/2024 14:51:43" isStartedSynced="True" ended="05/21/2024 14:55:02" isEndedSynced="True">
+      <RealTime>00:03:19.0583184</RealTime>
+    </Attempt>
+    <Attempt id="1979" started="05/21/2024 14:55:20" isStartedSynced="True" ended="05/21/2024 14:56:27" isEndedSynced="True" />
+    <Attempt id="1980" started="05/21/2024 15:01:23" isStartedSynced="True" ended="05/21/2024 15:04:32" isEndedSynced="True">
+      <RealTime>00:03:08.3208276</RealTime>
+    </Attempt>
+    <Attempt id="1981" started="05/21/2024 15:05:03" isStartedSynced="True" ended="05/21/2024 15:05:15" isEndedSynced="True" />
+    <Attempt id="1982" started="05/21/2024 15:06:02" isStartedSynced="True" ended="05/21/2024 15:07:07" isEndedSynced="True" />
+    <Attempt id="1983" started="05/21/2024 15:07:11" isStartedSynced="True" ended="05/21/2024 15:08:27" isEndedSynced="True" />
+    <Attempt id="1984" started="05/21/2024 15:08:29" isStartedSynced="True" ended="05/21/2024 15:09:03" isEndedSynced="True" />
+    <Attempt id="1985" started="05/21/2024 15:09:05" isStartedSynced="True" ended="05/21/2024 15:09:41" isEndedSynced="True" />
+    <Attempt id="1986" started="05/21/2024 15:11:06" isStartedSynced="True" ended="05/21/2024 15:12:12" isEndedSynced="True" />
+    <Attempt id="1987" started="05/21/2024 15:12:14" isStartedSynced="True" ended="05/21/2024 15:12:49" isEndedSynced="True" />
+    <Attempt id="1988" started="05/21/2024 15:12:51" isStartedSynced="True" ended="05/21/2024 15:13:26" isEndedSynced="True" />
+    <Attempt id="1989" started="05/21/2024 15:13:29" isStartedSynced="True" ended="05/21/2024 15:13:45" isEndedSynced="True" />
+    <Attempt id="1990" started="05/21/2024 15:13:47" isStartedSynced="True" ended="05/21/2024 15:15:39" isEndedSynced="True" />
+    <Attempt id="1991" started="05/21/2024 15:15:44" isStartedSynced="True" ended="05/21/2024 15:18:14" isEndedSynced="True" />
+    <Attempt id="1992" started="05/21/2024 15:18:35" isStartedSynced="True" ended="05/21/2024 15:19:11" isEndedSynced="True" />
+    <Attempt id="1993" started="05/21/2024 15:19:13" isStartedSynced="True" ended="05/21/2024 15:21:10" isEndedSynced="True" />
+    <Attempt id="1994" started="05/21/2024 15:21:33" isStartedSynced="True" ended="05/21/2024 15:22:07" isEndedSynced="True" />
+    <Attempt id="1995" started="05/21/2024 15:22:09" isStartedSynced="True" ended="05/21/2024 15:24:59" isEndedSynced="True" />
+    <Attempt id="1996" started="05/21/2024 15:52:12" isStartedSynced="True" ended="05/21/2024 15:55:18" isEndedSynced="True" />
+    <Attempt id="1997" started="05/21/2024 15:55:21" isStartedSynced="True" ended="05/21/2024 15:56:18" isEndedSynced="True" />
+    <Attempt id="1998" started="05/21/2024 16:00:56" isStartedSynced="True" ended="05/21/2024 16:00:58" isEndedSynced="True" />
+    <Attempt id="1999" started="05/21/2024 16:01:04" isStartedSynced="True" ended="05/21/2024 16:01:41" isEndedSynced="True" />
+    <Attempt id="2000" started="05/21/2024 16:01:44" isStartedSynced="True" ended="05/21/2024 16:02:54" isEndedSynced="True" />
+    <Attempt id="2001" started="05/21/2024 16:02:56" isStartedSynced="True" ended="05/21/2024 16:06:25" isEndedSynced="True" />
+    <Attempt id="2002" started="05/21/2024 16:06:29" isStartedSynced="True" ended="05/21/2024 16:07:29" isEndedSynced="True" />
+    <Attempt id="2003" started="05/21/2024 16:07:31" isStartedSynced="True" ended="05/21/2024 16:08:29" isEndedSynced="True" />
+    <Attempt id="2004" started="05/21/2024 16:08:31" isStartedSynced="True" ended="05/21/2024 16:11:25" isEndedSynced="True" />
+    <Attempt id="2005" started="05/21/2024 16:11:27" isStartedSynced="True" ended="05/21/2024 16:12:32" isEndedSynced="True" />
+    <Attempt id="2006" started="05/21/2024 16:15:13" isStartedSynced="True" ended="05/21/2024 16:15:48" isEndedSynced="True" />
+    <Attempt id="2007" started="05/21/2024 16:15:50" isStartedSynced="True" ended="05/21/2024 16:18:59" isEndedSynced="True">
+      <RealTime>00:03:06.3830000</RealTime>
+    </Attempt>
+    <Attempt id="2008" started="05/21/2024 16:20:39" isStartedSynced="True" ended="05/21/2024 16:21:49" isEndedSynced="True" />
+    <Attempt id="2009" started="05/21/2024 16:21:51" isStartedSynced="True" ended="05/21/2024 16:24:30" isEndedSynced="True" />
+    <Attempt id="2010" started="05/21/2024 16:24:32" isStartedSynced="True" ended="05/21/2024 16:27:19" isEndedSynced="True" />
+    <Attempt id="2011" started="05/21/2024 16:27:21" isStartedSynced="True" ended="05/21/2024 16:30:12" isEndedSynced="True" />
+    <Attempt id="2012" started="05/21/2024 16:30:14" isStartedSynced="True" ended="05/21/2024 16:33:22" isEndedSynced="True" />
+    <Attempt id="2013" started="05/21/2024 16:33:30" isStartedSynced="True" ended="05/21/2024 16:34:41" isEndedSynced="True" />
+    <Attempt id="2014" started="05/21/2024 16:35:01" isStartedSynced="True" ended="05/21/2024 16:35:38" isEndedSynced="True" />
+    <Attempt id="2015" started="05/21/2024 16:35:40" isStartedSynced="True" ended="05/21/2024 16:36:23" isEndedSynced="True" />
+    <Attempt id="2016" started="05/21/2024 16:36:25" isStartedSynced="True" ended="05/21/2024 16:37:22" isEndedSynced="True" />
+    <Attempt id="2017" started="05/21/2024 16:37:24" isStartedSynced="True" ended="05/21/2024 16:38:34" isEndedSynced="True" />
+    <Attempt id="2018" started="05/21/2024 16:38:49" isStartedSynced="True" ended="05/21/2024 16:40:00" isEndedSynced="True" />
+    <Attempt id="2019" started="05/21/2024 16:40:03" isStartedSynced="True" ended="05/21/2024 16:41:13" isEndedSynced="True" />
+    <Attempt id="2020" started="05/21/2024 16:41:15" isStartedSynced="True" ended="05/21/2024 16:44:32" isEndedSynced="True" />
+    <Attempt id="2021" started="05/21/2024 16:44:39" isStartedSynced="True" ended="05/21/2024 16:48:20" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -2689,6 +2747,147 @@
         <Time id="1971">
           <RealTime>00:00:22.6986004</RealTime>
         </Time>
+        <Time id="1972">
+          <RealTime>00:00:22.7659840</RealTime>
+        </Time>
+        <Time id="1973">
+          <RealTime>00:00:22.5663301</RealTime>
+        </Time>
+        <Time id="1974">
+          <RealTime>00:00:22.5087126</RealTime>
+        </Time>
+        <Time id="1975">
+          <RealTime>00:00:22.8055566</RealTime>
+        </Time>
+        <Time id="1976">
+          <RealTime>00:00:22.5873531</RealTime>
+        </Time>
+        <Time id="1977">
+          <RealTime>00:00:22.5181681</RealTime>
+        </Time>
+        <Time id="1978">
+          <RealTime>00:00:22.5490489</RealTime>
+        </Time>
+        <Time id="1979">
+          <RealTime>00:00:22.7322211</RealTime>
+        </Time>
+        <Time id="1980">
+          <RealTime>00:00:22.5783297</RealTime>
+        </Time>
+        <Time id="1982">
+          <RealTime>00:00:22.6617934</RealTime>
+        </Time>
+        <Time id="1983">
+          <RealTime>00:00:22.5564324</RealTime>
+        </Time>
+        <Time id="1984">
+          <RealTime>00:00:22.5608219</RealTime>
+        </Time>
+        <Time id="1985">
+          <RealTime>00:00:22.5690631</RealTime>
+        </Time>
+        <Time id="1986">
+          <RealTime>00:00:22.5510380</RealTime>
+        </Time>
+        <Time id="1987">
+          <RealTime>00:00:22.5954137</RealTime>
+        </Time>
+        <Time id="1988">
+          <RealTime>00:00:22.5444791</RealTime>
+        </Time>
+        <Time id="1990">
+          <RealTime>00:00:22.5892777</RealTime>
+        </Time>
+        <Time id="1991">
+          <RealTime>00:00:22.5498652</RealTime>
+        </Time>
+        <Time id="1992">
+          <RealTime>00:00:22.5189742</RealTime>
+        </Time>
+        <Time id="1993">
+          <RealTime>00:00:22.6235740</RealTime>
+        </Time>
+        <Time id="1994">
+          <RealTime>00:00:22.5955345</RealTime>
+        </Time>
+        <Time id="1995">
+          <RealTime>00:00:22.5691823</RealTime>
+        </Time>
+        <Time id="1996">
+          <RealTime>00:00:22.7282543</RealTime>
+        </Time>
+        <Time id="1997">
+          <RealTime>00:00:22.5817787</RealTime>
+        </Time>
+        <Time id="1999">
+          <RealTime>00:00:22.7120842</RealTime>
+        </Time>
+        <Time id="2000">
+          <RealTime>00:00:22.5417703</RealTime>
+        </Time>
+        <Time id="2001">
+          <RealTime>00:00:22.5112718</RealTime>
+        </Time>
+        <Time id="2002">
+          <RealTime>00:00:22.5830922</RealTime>
+        </Time>
+        <Time id="2003">
+          <RealTime>00:00:22.4952664</RealTime>
+        </Time>
+        <Time id="2004">
+          <RealTime>00:00:22.5794199</RealTime>
+        </Time>
+        <Time id="2005">
+          <RealTime>00:00:22.5799487</RealTime>
+        </Time>
+        <Time id="2006">
+          <RealTime>00:00:23.2021436</RealTime>
+        </Time>
+        <Time id="2007">
+          <RealTime>00:00:22.7337644</RealTime>
+        </Time>
+        <Time id="2008">
+          <RealTime>00:00:22.5091775</RealTime>
+        </Time>
+        <Time id="2009">
+          <RealTime>00:00:22.7655587</RealTime>
+        </Time>
+        <Time id="2010">
+          <RealTime>00:00:22.6444680</RealTime>
+        </Time>
+        <Time id="2011">
+          <RealTime>00:00:22.6111812</RealTime>
+        </Time>
+        <Time id="2012">
+          <RealTime>00:00:22.5566820</RealTime>
+        </Time>
+        <Time id="2013">
+          <RealTime>00:00:22.5341763</RealTime>
+        </Time>
+        <Time id="2014">
+          <RealTime>00:00:22.7637941</RealTime>
+        </Time>
+        <Time id="2015">
+          <RealTime>00:00:22.5382040</RealTime>
+        </Time>
+        <Time id="2016">
+          <RealTime>00:00:22.5761319</RealTime>
+        </Time>
+        <Time id="2017">
+          <RealTime>00:00:22.5320996</RealTime>
+        </Time>
+        <Time id="2018">
+          <RealTime>00:00:22.6366149</RealTime>
+        </Time>
+        <Time id="2019">
+          <RealTime>00:00:22.5107747</RealTime>
+        </Time>
+        <Time id="2020">
+          <RealTime>00:00:22.5172667</RealTime>
+        </Time>
+        <Time id="2021">
+          <RealTime>00:00:22.5080043</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3063,6 +3262,108 @@
         <Time id="1971">
           <RealTime>00:00:24.2427421</RealTime>
         </Time>
+        <Time id="1972">
+          <RealTime>00:00:24.7902699</RealTime>
+        </Time>
+        <Time id="1976">
+          <RealTime>00:00:24.2565679</RealTime>
+        </Time>
+        <Time id="1977">
+          <RealTime>00:00:24.2744679</RealTime>
+        </Time>
+        <Time id="1978">
+          <RealTime>00:00:24.2564477</RealTime>
+        </Time>
+        <Time id="1979">
+          <RealTime>00:00:24.8083740</RealTime>
+        </Time>
+        <Time id="1980">
+          <RealTime>00:00:24.2418516</RealTime>
+        </Time>
+        <Time id="1982">
+          <RealTime>00:00:24.2741365</RealTime>
+        </Time>
+        <Time id="1983">
+          <RealTime>00:00:24.2423462</RealTime>
+        </Time>
+        <Time id="1986">
+          <RealTime>00:00:24.2230054</RealTime>
+        </Time>
+        <Time id="1990">
+          <RealTime>00:00:24.2428191</RealTime>
+        </Time>
+        <Time id="1991">
+          <RealTime>00:00:24.2396547</RealTime>
+        </Time>
+        <Time id="1993">
+          <RealTime>00:00:24.2233317</RealTime>
+        </Time>
+        <Time id="1995">
+          <RealTime>00:00:24.2434356</RealTime>
+        </Time>
+        <Time id="1996">
+          <RealTime>00:00:24.7565066</RealTime>
+        </Time>
+        <Time id="1997">
+          <RealTime>00:00:24.2905298</RealTime>
+        </Time>
+        <Time id="2000">
+          <RealTime>00:00:24.2238102</RealTime>
+        </Time>
+        <Time id="2001">
+          <RealTime>00:00:25.6069985</RealTime>
+        </Time>
+        <Time id="2002">
+          <RealTime>00:00:24.7898532</RealTime>
+        </Time>
+        <Time id="2003">
+          <RealTime>00:00:25.6063403</RealTime>
+        </Time>
+        <Time id="2004">
+          <RealTime>00:00:24.6080728</RealTime>
+        </Time>
+        <Time id="2005">
+          <RealTime>00:00:25.1903062</RealTime>
+        </Time>
+        <Time id="2007">
+          <RealTime>00:00:25.0739238</RealTime>
+        </Time>
+        <Time id="2008">
+          <RealTime>00:00:24.2589686</RealTime>
+        </Time>
+        <Time id="2009">
+          <RealTime>00:00:25.6895083</RealTime>
+        </Time>
+        <Time id="2010">
+          <RealTime>00:00:24.2560494</RealTime>
+        </Time>
+        <Time id="2011">
+          <RealTime>00:00:25.0887972</RealTime>
+        </Time>
+        <Time id="2012">
+          <RealTime>00:00:24.2741610</RealTime>
+        </Time>
+        <Time id="2013">
+          <RealTime>00:00:24.2776758</RealTime>
+        </Time>
+        <Time id="2016">
+          <RealTime>00:00:24.7751951</RealTime>
+        </Time>
+        <Time id="2017">
+          <RealTime>00:00:24.2430907</RealTime>
+        </Time>
+        <Time id="2018">
+          <RealTime>00:00:24.7565103</RealTime>
+        </Time>
+        <Time id="2019">
+          <RealTime>00:00:24.4738725</RealTime>
+        </Time>
+        <Time id="2020">
+          <RealTime>00:00:24.2571098</RealTime>
+        </Time>
+        <Time id="2021">
+          <RealTime>00:00:24.7740208</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3282,6 +3583,60 @@
         <Time id="1971">
           <RealTime>00:00:36.9741061</RealTime>
         </Time>
+        <Time id="1972">
+          <RealTime>00:00:36.4256297</RealTime>
+        </Time>
+        <Time id="1976">
+          <RealTime>00:00:37.0068976</RealTime>
+        </Time>
+        <Time id="1977">
+          <RealTime>00:00:36.4257397</RealTime>
+        </Time>
+        <Time id="1978">
+          <RealTime>00:00:36.4259139</RealTime>
+        </Time>
+        <Time id="1980">
+          <RealTime>00:00:36.4242992</RealTime>
+        </Time>
+        <Time id="1990">
+          <RealTime>00:00:36.7761312</RealTime>
+        </Time>
+        <Time id="1991">
+          <RealTime>00:00:36.9579483</RealTime>
+        </Time>
+        <Time id="1995">
+          <RealTime>00:00:36.7392041</RealTime>
+        </Time>
+        <Time id="1996">
+          <RealTime>00:00:36.7587244</RealTime>
+        </Time>
+        <Time id="2001">
+          <RealTime>00:00:36.2087903</RealTime>
+        </Time>
+        <Time id="2004">
+          <RealTime>00:00:40.1860383</RealTime>
+        </Time>
+        <Time id="2007">
+          <RealTime>00:00:36.3923526</RealTime>
+        </Time>
+        <Time id="2009">
+          <RealTime>00:00:36.2079930</RealTime>
+        </Time>
+        <Time id="2010">
+          <RealTime>00:00:36.5426523</RealTime>
+        </Time>
+        <Time id="2011">
+          <RealTime>00:00:36.3922258</RealTime>
+        </Time>
+        <Time id="2012">
+          <RealTime>00:00:36.7581974</RealTime>
+        </Time>
+        <Time id="2020">
+          <RealTime>00:00:36.7907673</RealTime>
+        </Time>
+        <Time id="2021">
+          <RealTime>00:00:36.8073484</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3479,6 +3834,57 @@
         <Time id="1971">
           <RealTime>00:00:30.7455116</RealTime>
         </Time>
+        <Time id="1972">
+          <RealTime>00:00:29.9966416</RealTime>
+        </Time>
+        <Time id="1976">
+          <RealTime>00:00:30.4471439</RealTime>
+        </Time>
+        <Time id="1977">
+          <RealTime>00:00:29.8641533</RealTime>
+        </Time>
+        <Time id="1978">
+          <RealTime>00:00:30.3793675</RealTime>
+        </Time>
+        <Time id="1980">
+          <RealTime>00:00:29.9483413</RealTime>
+        </Time>
+        <Time id="1991">
+          <RealTime>00:00:29.6978766</RealTime>
+        </Time>
+        <Time id="1995">
+          <RealTime>00:00:30.5309018</RealTime>
+        </Time>
+        <Time id="1996">
+          <RealTime>00:00:30.4956601</RealTime>
+        </Time>
+        <Time id="2001">
+          <RealTime>00:00:30.4624707</RealTime>
+        </Time>
+        <Time id="2004">
+          <RealTime>00:00:29.3813266</RealTime>
+        </Time>
+        <Time id="2007">
+          <RealTime>00:00:30.2801992</RealTime>
+        </Time>
+        <Time id="2009">
+          <RealTime>00:00:30.4469466</RealTime>
+        </Time>
+        <Time id="2010">
+          <RealTime>00:00:29.8310381</RealTime>
+        </Time>
+        <Time id="2011">
+          <RealTime>00:00:29.4329073</RealTime>
+        </Time>
+        <Time id="2012">
+          <RealTime>00:00:30.0635467</RealTime>
+        </Time>
+        <Time id="2020">
+          <RealTime>00:00:30.4307939</RealTime>
+        </Time>
+        <Time id="2021">
+          <RealTime>00:00:29.8143211</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3620,6 +4026,48 @@
         <Time id="1971">
           <RealTime>00:00:37.8620987</RealTime>
         </Time>
+        <Time id="1972">
+          <RealTime>00:00:37.9115744</RealTime>
+        </Time>
+        <Time id="1977">
+          <RealTime>00:00:38.2112102</RealTime>
+        </Time>
+        <Time id="1978">
+          <RealTime>00:00:41.0240801</RealTime>
+        </Time>
+        <Time id="1980">
+          <RealTime>00:00:41.5383982</RealTime>
+        </Time>
+        <Time id="1995">
+          <RealTime>00:00:41.2884716</RealTime>
+        </Time>
+        <Time id="1996">
+          <RealTime>00:00:37.9795718</RealTime>
+        </Time>
+        <Time id="2001">
+          <RealTime>00:00:37.6140041</RealTime>
+        </Time>
+        <Time id="2004">
+          <RealTime>00:00:46.5639003</RealTime>
+        </Time>
+        <Time id="2007">
+          <RealTime>00:00:37.7453812</RealTime>
+        </Time>
+        <Time id="2009">
+          <RealTime>00:00:39.5002859</RealTime>
+        </Time>
+        <Time id="2010">
+          <RealTime>00:00:41.1400155</RealTime>
+        </Time>
+        <Time id="2011">
+          <RealTime>00:00:37.6460278</RealTime>
+        </Time>
+        <Time id="2012">
+          <RealTime>00:00:37.6475156</RealTime>
+        </Time>
+        <Time id="2020">
+          <RealTime>00:00:43.8532699</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3631,7 +4079,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:05.1413607</RealTime>
+        <RealTime>00:00:05.1391045</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-1">
@@ -3728,6 +4176,27 @@
         <Time id="1971">
           <RealTime>00:00:05.1413607</RealTime>
         </Time>
+        <Time id="1977">
+          <RealTime>00:00:14.1578758</RealTime>
+        </Time>
+        <Time id="1978">
+          <RealTime>00:00:14.0086686</RealTime>
+        </Time>
+        <Time id="1980">
+          <RealTime>00:00:05.8089050</RealTime>
+        </Time>
+        <Time id="2001">
+          <RealTime>00:00:24.9716502</RealTime>
+        </Time>
+        <Time id="2007">
+          <RealTime>00:00:06.9542999</RealTime>
+        </Time>
+        <Time id="2012">
+          <RealTime>00:00:05.1391045</RealTime>
+        </Time>
+        <Time id="2020">
+          <RealTime>00:00:09.6138735</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -3735,11 +4204,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:03:06.7000000</RealTime>
+          <RealTime>00:03:06.3830000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:27.6000000</RealTime>
+        <RealTime>00:00:27.3031630</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-1">
@@ -3813,6 +4282,18 @@
         </Time>
         <Time id="1971">
           <RealTime>00:00:35.2163828</RealTime>
+        </Time>
+        <Time id="1977">
+          <RealTime>00:00:32.7875000</RealTime>
+        </Time>
+        <Time id="1978">
+          <RealTime>00:00:30.4147917</RealTime>
+        </Time>
+        <Time id="1980">
+          <RealTime>00:00:27.7807026</RealTime>
+        </Time>
+        <Time id="2007">
+          <RealTime>00:00:27.3031630</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
