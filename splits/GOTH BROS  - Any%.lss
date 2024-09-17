@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>GOTH BROS </GameName>
+  <CategoryName>Any%</CategoryName>
+  <LayoutPath>D:\workspace\livesplit-data\layouts\6row_PB_SegDelta_CurrentPace_BestPossible_WR.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>2</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/17/2024 01:09:01" isStartedSynced="True" ended="09/17/2024 02:20:01" isEndedSynced="True">
+      <RealTime>01:10:59.8018187</RealTime>
+    </Attempt>
+    <Attempt id="2" started="09/17/2024 02:21:03" isStartedSynced="True" ended="09/17/2024 02:51:30" isEndedSynced="True">
+      <RealTime>00:30:26.8512793</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>World 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:03.9213328</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:03.9213328</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:24.4819659</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:06:03.9213328</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:01.4159958</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:57.4946630</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:15:49.6206043</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:06:57.4946630</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:24:17.9110342</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:16.4950384</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:19:48.9258904</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:11:16.4950384</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>World 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:30:26.8512793</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:08.9402451</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:25:56.7733581</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:06:08.9402451</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
