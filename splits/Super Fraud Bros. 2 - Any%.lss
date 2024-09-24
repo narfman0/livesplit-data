@@ -13,26 +13,87 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>7</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/24/2024 01:03:21" isStartedSynced="True" ended="09/24/2024 01:59:10" isEndedSynced="True">
+      <RealTime>00:55:48.4964844</RealTime>
+    </Attempt>
+    <Attempt id="2" started="09/24/2024 02:16:37" isStartedSynced="True" ended="09/24/2024 02:26:55" isEndedSynced="True">
+      <RealTime>00:10:17.4748422</RealTime>
+    </Attempt>
+    <Attempt id="3" started="09/24/2024 02:26:59" isStartedSynced="True" ended="09/24/2024 02:37:06" isEndedSynced="True" />
+    <Attempt id="4" started="09/24/2024 02:37:07" isStartedSynced="True" ended="09/24/2024 02:45:45" isEndedSynced="True">
+      <RealTime>00:08:38.3714581</RealTime>
+    </Attempt>
+    <Attempt id="5" started="09/24/2024 02:45:50" isStartedSynced="True" ended="09/24/2024 02:48:03" isEndedSynced="True" />
+    <Attempt id="6" started="09/24/2024 02:48:04" isStartedSynced="True" ended="09/24/2024 02:58:02" isEndedSynced="True">
+      <RealTime>00:09:57.8006546</RealTime>
+    </Attempt>
+    <Attempt id="7" started="09/24/2024 02:58:04" isStartedSynced="True" ended="09/24/2024 03:05:02" isEndedSynced="True">
+      <RealTime>00:06:57.3398816</RealTime>
+    </Attempt>
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>World 1</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:47.9642514</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:02:47.9642514</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:16:32.5796180</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:03:58.6387647</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:03:12.5660634</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:03:26.0669622</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:03:50.0076432</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:47.9642514</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>World 8</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:57.3398816</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:04:09.3756302</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:39:15.9168664</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:06:31.7336924</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:07:04.9087788</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:04:48.3638149</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:04:09.3756302</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />
