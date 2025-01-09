@@ -76,7 +76,7 @@
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
-        <SplitTimesAccuracy>Tenths</SplitTimesAccuracy>
+        <SplitTimesAccuracy>Hundredths</SplitTimesAccuracy>
         <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
         <AfterNamesColor>FFFFFFFF</AfterNamesColor>
@@ -94,7 +94,7 @@
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Alternating</BackgroundGradient>
         <SeparatorLastSplit>True</SeparatorLastSplit>
-        <DeltasAccuracy>Tenths</DeltasAccuracy>
+        <DeltasAccuracy>Hundredths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
@@ -119,7 +119,7 @@
         <HeaderAccuracy>Tenths</HeaderAccuracy>
         <SectionTimer>True</SectionTimer>
         <SectionTimerGradient>True</SectionTimerGradient>
-        <SectionTimerAccuracy>Tenths</SectionTimerAccuracy>
+        <SectionTimerAccuracy>Hundredths</SectionTimerAccuracy>
         <SubsplitTopColor>8D000000</SubsplitTopColor>
         <SubsplitBottomColor>00FFFFFF</SubsplitBottomColor>
         <HeaderTopColor>2BFFFFFF</HeaderTopColor>
@@ -179,14 +179,6 @@
         <BackgroundGradient>Plain</BackgroundGradient>
         <Comparison>Current Comparison</Comparison>
         <Display2Rows>False</Display2Rows>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.TheRun.dll</Path>
-      <Settings>
-        <Version>1.0.0</Version>
-        <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
-        <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
       </Settings>
     </Component>
   </Components>
